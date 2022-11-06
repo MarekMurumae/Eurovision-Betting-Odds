@@ -1,0 +1,288 @@
+﻿year;country;place;pts;tele;jury;qualified;odds_final;odds_qualify;semi_final;final_ro;semi_ro;artist;song;language
+2022;Ukraine;1;631;439;192;1;1;1;1;12;6;Kalush Orchestra;Stefania (Стефанія);Ukrainian
+2022;United Kingdom;2;466;183;283;1;4;0;0;22;0;Sam Ryder;Space Man;English
+2022;Spain;3;459;228;231;1;3;0;0;10;0;Chanel;SloMo;Spanish, English
+2022;Sweden;4;438;180;258;1;2;1;2;20;17;Cornelia Jakobs;Hold Me Closer;English
+2022;Serbia;5;312;225;87;1;8;6;2;24;3;Konstrakta;In corpore sano;Serbian, Latin
+2022;Italy;6;268;110;158;1;5;0;0;9;0;Mahmood and Blanco;Brividi;Italian
+2022;Moldova;7;253;239;14;1;10;7;1;19;9;Zdob și Zdub and Advahov Brothers;Trenulețul;Romanian, English
+2022;Greece;8;215;57;158;1;9;2;1;17;15;Amanda Georgiadi Tenfjord;Die Together;English
+2022;Portugal;9;207;36;171;1;16;5;1;3;10;Maro;Saudade, saudade;English, Portuguese
+2022;Norway;10;182;146;63;1;6;3;1;7;16;Subwoolfer;Give That Wolf a Banana;English
+2022;Netherlands;11;171;42;129;1;11;4;1;11;8;S10;De diepte;Dutch
+2022;Poland;12;151;105;46;1;7;2;2;23;14;Ochman;River;English
+2022;Estonia;13;141;98;43;1;13;5;2;25;12;Stefan;Hope;English
+2022;Lithuania;14;128;93;35;1;25;11;1;14;3;Monika Liu;Sentimentai;Lithuanian
+2022;Australia;15;125;2;123;1;14;3;2;21;8;Sheldon Riley;Not the Same;English
+2022;Azerbaijan;16;106;3;103;1;20;8;2;15;4;Nadir Rustamli;Fade to Black;English
+2022;Switzerland;17;78;0;78;1;23;13;1;5;4;Marius Bear;Boys Do Cry;English
+2022;Romania;18;65;53;12;1;22;12;2;2;13;WRS;Llámame;English, Spanish
+2022;Belgium;19;64;5;59;1;24;9;2;16;16;Jérémie Makiese;Miss You;English
+2022;Armenia;20;61;21;40;1;17;6;1;8;17;Rosa Linn;Snap;English
+2022;Finland;21;38;26;12;1;12;7;2;4;1;The Rasmus;Jezebel;English
+2022;Czech Republic;22;38;5;33;1;15;4;2;1;18;We Are Domi;Lights Off;English
+2022;Iceland;23;20;10;10;1;21;12;1;18;14;Systur;Með hækkandi sól;Icelandic
+2022;France;24;17;8;9;1;19;0;0;6;0;Alvan and Ahez;Fulenn;Breton
+2022;Germany;25;6;6;0;1;18;0;0;13;0;Malik Harris;Rockstars;English
+2022;Croatia;26;75;42;33;0;0;14;1;0;11;Mia Dimšić;Guilty Pleasure;English, Croatian
+2022;North Macedonia;27;76;56;20;0;0;17;2;0;11;Andrea;Circles;English
+2022;Albania;28;58;12;46;0;0;8;1;0;1;Ronela Hajati;Sekret;Albanian, English
+2022;Cyprus;29;63;9;54;0;0;15;2;0;9;Andromache;Ela;English, Greek
+2022;Israel;30;61;34;27;0;0;14;2;0;2;Michael Ben David;I.M;English
+2022;Denmark;31;55;35;20;0;0;15;1;0;12;Reddi;The Show;English
+2022;Latvia;32;55;39;16;0;0;10;1;0;2;Citi Zēni;Eat Your Salad;English
+2022;San Marino;33;50;21;29;0;0;11;2;0;7;Achille Lauro;Stripper;Italian, English
+2022;Ireland;34;47;12;35;0;0;13;2;0;10;Brooke;That's Rich;English
+2022;Malta;35;47;27;20;0;0;10;2;0;6;Emma Muscat;I Am What I Am;English
+2022;Austria;36;42;6;36;0;0;9;1;0;13;Lumix feat. Pia Maria;Halo;English
+2022;Montenegro;37;33;11;22;0;0;16;2;0;15;Vladana;Breathe;English, Italian
+2022;Bulgaria;38;29;11;18;0;0;16;1;0;7;Intelligent Music Project;Intention;English
+2022;Georgia;39;22;13;9;0;0;18;2;0;5;Circus Mircus;Lock Me In;English
+2022;Slovenia;40;15;7;8;0;0;17;1;0;5;LPS;Disko;Slovene
+2021;Italy;1;524;206;318;1;1;0;0;24;0;Måneskin;Zitti e buoni;Italian
+2021;France;2;499;248;251;1;2;0;0;20;0;Barbara Pravi;Voilà;French
+2021;Switzerland;3;432;267;165;1;6;1;2;11;16;Gjon's Tears;Tout l'univers;French
+2021;Iceland;4;378;198;180;1;7;2;2;12;8;Daði og Gagnamagnið;10 Years;English
+2021;Ukraine;5;364;97;267;1;4;3;1;19;15;Go_A;Shum (Шум);Ukrainian
+2021;Finland;6;301;83;218;1;5;4;2;16;14;Blind Channel;Dark Side;English
+2021;Malta;7;255;208;47;1;3;1;1;6;16;Destiny;Je me casse;English
+2021;Lithuania;8;220;55;165;1;8;4;1;18;1;The Roop;Discoteque;English
+2021;Russia;9;204;104;100;1;17;5;1;5;3;Manizha;Russian Woman;Russian, English
+2021;Greece;10;170;91;79;1;16;5;2;10;4;Stefania;Last Dance;English
+2021;Bulgaria;11;170;140;30;1;13;3;2;17;13;Victoria;Growing Up Is Getting Old;English
+2021;Portugal;12;153;126;27;1;12;7;2;7;12;The Black Mamba;Love Is on My Side;English
+2021;Moldova;13;115;53;62;1;23;12;2;14;7;Natalia Gordienko;Sugar;English
+2021;Sweden;14;109;46;63;1;9;6;1;25;4;Tusse;Voices;English
+2021;Serbia;15;102;20;82;1;18;8;2;8;9;Hurricane;Loco Loco;Serbian
+2021;Cyprus;16;94;50;44;1;14;2;1;1;8;Elena Tsagrinou;El Diablo;English
+2021;Israel;17;93;73;20;1;19;11;1;3;12;Eden Alene;Set Me Free;English
+2021;Norway;18;75;15;60;1;11;7;1;22;9;Tix;Fallen Angel;English
+2021;Belgium;19;74;71;3;1;21;10;1;4;11;Hooverphonic;The Wrong Place;English
+2021;Azerbaijan;20;65;32;33;1;15;9;1;21;14;Efendi;Mata Hari;English
+2021;Albania;21;57;22;35;1;26;9;2;2;11;Anxhela Peristeri;Karma;Albanian
+2021;San Marino;22;50;37;13;1;10;6;2;26;1;Senhit;Adrenalina;English
+2021;Netherlands;23;11;11;0;1;20;0;0;23;0;Jeangu Macrooy;Birth of a New Age;English, Sranan Tongo
+2021;Spain;24;6;6;0;1;25;0;0;13;0;Blas Cantó;Voy a quedarme;Spanish
+2021;Germany;25;3;3;0;1;24;0;0;15;0;Jendrik;I Don't Feel Hate;English
+2021;United Kingdom;26;0;0;0;1;22;0;0;9;0;James Newman;Embers;English
+2021;Croatia;27;110;57;53;0;0;8;1;0;10;Albina;Tick-Tock;English, Croatian
+2021;Romania;28;85;58;27;0;0;12;1;0;13;Roxen;Amnesia;English
+2021;Denmark;29;89;9;80;0;0;11;2;0;17;Fyr og Flamme;Øve os på hinanden;Danish
+2021;Austria;30;66;53;13;0;0;10;2;0;5;Vincent Bueno;Amen;English
+2021;Estonia;31;58;29;29;0;0;13;2;0;2;Uku Suviste;The Lucky One;English
+2021;Slovenia;32;44;36;8;0;0;16;1;0;2;Ana Soklič;Amen;English
+2021;Poland;33;35;18;17;0;0;16;2;0;6;Rafał;The Ride;English
+2021;Australia;34;28;26;2;0;0;13;1;0;5;Montaigne;Technicolour;English
+2021;North Macedonia;35;23;12;11;0;0;14;1;0;6;Vasil;Here I Stand;English
+2021;Czech Republic;36;23;23;0;0;0;15;2;0;3;Benny Cristo;Omaga;English
+2021;Ireland;37;20;16;4;0;0;15;1;0;7;Lesley Roy;Maps;English
+2021;Georgia;38;16;1;15;0;0;17;2;0;10;Tornike Kipiani;You;English
+2021;Latvia;39;14;4;10;0;0;14;2;0;15;Samanta Tīna;The Moon Is Rising;English
+2019;Netherlands;1;498;237;261;1;1;2;2;12;16;Duncan Laurence;Arcade;English
+2019;Italy;2;472;219;253;1;2;0;0;22;0;Mahmood;Soldi;Italian
+2019;Russia;3;370;126;244;1;8;3;2;5;13;Sergey Lazarev;Scream;English
+2019;Switzerland;4;364;152;212;1;3;5;2;24;4;Luca Hänni;She Got Me;English
+2019;Sweden;5;334;241;93;1;5;1;2;9;8;John Lundvik;Too Late for Love;English
+2019;Norway;6;331;40;291;1;6;7;2;15;15;Keiino;Spirit in the Sky;English, Northern Sámi
+2019;North Macedonia;7;305;247;58;1;15;8;2;8;17;Tamara Todevska;Proud;English
+2019;Azerbaijan;8;302;202;100;1;7;4;2;20;18;Chingiz;Truth;English
+2019;Australia;9;284;153;131;1;4;1;1;25;12;Kate Miller-Heidke;Zero Gravity;English
+2019;Iceland;10;232;46;186;1;9;4;1;17;13;Hatari;Hatrið mun sigra;Icelandic
+2019;Czech Republic;11;157;150;7;1;16;6;1;3;6;Lake Malawi;Friend of a Friend;English
+2019;Denmark;12;120;69;51;1;11;9;2;6;7;Leonora;Love Is Forever;English, French
+2019;Cyprus;13;109;77;32;1;12;3;1;11;17;Tamta;Replay;English
+2019;Malta;14;107;87;20;1;17;6;2;1;11;Michela;Chameleon;English
+2019;Slovenia;15;105;46;59;1;21;8;1;10;5;Zala Kralj and Gašper Šantl;Sebi;Slovene
+2019;France;16;105;67;38;1;10;0;0;21;0;Bilal Hassani;Roi;French, English
+2019;Albania;17;90;43;47;1;24;13;2;2;14;Jonida Maliqi;Ktheju tokës;Albanian
+2019;Serbia;18;89;35;54;1;19;5;1;23;9;Nevena Božović;Kruna (Круна);Serbian
+2019;San Marino;19;77;12;65;1;26;15;1;7;17;Serhat;Say Na Na Na;English
+2019;Estonia;20;76;28;48;1;13;9;1;18;14;Victor Crone;Storm;English
+2019;Greece;21;74;50;24;1;18;2;1;13;16;Katerine Duska;Better Love;English
+2019;Spain;22;54;1;53;1;14;0;0;26;0;Miki;La venda;Spanish
+2019;Israel;23;35;0;35;1;23;0;0;14;0;Kobi Marimi;Home;English
+2019;Belarus;24;31;18;13;1;22;13;1;19;8;Zena;Like It;English
+2019;Germany;25;24;24;0;1;25;0;0;4;0;S!sters;Sister;English
+2019;United Kingdom;26;11;8;3;1;20;0;0;16;0;Michael Rice;Bigger than Us;English
+2019;Poland;27;120;60;60;0;0;12;1;0;4;Tulia;Fire of Love (Pali się);Polish, English
+2019;Hungary;28;97;65;32;0;0;7;1;0;7;Joci Pápai;Az én apám;Hungarian
+2019;Lithuania;29;93;16;77;0;0;12;2;0;12;Jurij Veklenko;Run with the Lions;English
+2019;Moldova;30;85;58;27;0;0;14;2;0;3;Anna Odobescu;Stay;English
+2019;Belgium;31;70;50;20;0;0;11;1;0;10;Eliot;Wake Up;English
+2019;Romania;32;71;47;24;0;0;11;2;0;6;Ester Peony;On a Sunday;English
+2019;Georgia;33;62;29;33;0;0;14;1;0;11;Oto Nemsadze;Keep On Going;Georgian
+2019;Croatia;34;64;26;38;0;0;16;2;0;10;Roko;The Dream;English, Croatian
+2019;Portugal;35;51;8;43;0;0;10;1;0;15;Conan Osíris;Telemóveis;Portuguese
+2019;Latvia;36;50;37;13;0;0;17;2;0;5;Carousel;That Night;English
+2019;Armenia;37;49;26;23;0;0;10;2;0;1;Srbuk;Walking Out;English
+2019;Montenegro;38;46;31;15;0;0;17;1;0;2;D mol;Heaven;English
+2019;Finland;39;23;9;14;0;0;16;1;0;3;Darude feat. Sebastian Rejman;Look Away;English
+2019;Austria;40;21;21;0;0;0;15;2;0;9;Pænda;Limits;English
+2019;Ireland;41;16;13;3;0;0;18;2;0;2;Sarah McTernan;22;English
+2018;Israel;1;529;212;317;1;2;2;1;22;7;Netta;Toy;English
+2018;Cyprus;2;436;183;253;1;1;1;1;25;19;Eleni Foureira;Fuego;English
+2018;Austria;3;342;271;71;1;20;7;1;5;13;Cesár Sampson;Nobody but You;English
+2018;Germany;4;340;204;136;1;3;0;0;11;0;Michael Schulte;You Let Me Walk Alone;English
+2018;Italy;5;308;59;249;1;11;0;0;26;0;Ermal Meta and Fabrizio Moro;Non mi avete fatto niente;Italian
+2018;Czech Republic;6;281;66;215;1;14;4;1;14;5;Mikolas Josef;Lie to Me;English
+2018;Sweden;7;274;253;21;1;6;1;2;20;15;Benjamin Ingrosso;Dance You Off;English
+2018;Estonia;8;245;143;102;1;5;3;1;6;9;Elina Nechayeva;La forza;Italian
+2018;Denmark;9;226;38;188;1;17;5;2;15;5;Rasmussen;Higher Ground;English
+2018;Moldova;10;209;94;115;1;15;4;2;19;7;DoReDoS;My Lucky Day;English
+2018;Albania;11;184;126;58;1;24;15;1;12;3;Eugent Bushpepa;Mall;Albanian
+2018;Lithuania;12;181;90;91;1;7;6;1;4;6;Ieva Zasimauskaitė;When We're Old;English
+2018;France;13;173;114;59;1;10;0;0;13;0;Madame Monsieur;Mercy;French
+2018;Bulgaria;14;166;100;66;1;16;5;1;18;10;Equinox;Bones;English
+2018;Norway;15;144;60;84;1;9;2;2;7;1;Alexander Rybak;That's How You Write a Song;English
+2018;Ireland;16;136;74;62;1;4;16;1;24;18;Ryan O'Shaughnessy;Together;English
+2018;Ukraine;17;130;11;119;1;21;3;2;1;18;Mélovin;Under the Ladder;English
+2018;Netherlands;18;121;89;32;1;19;8;2;23;8;Waylon;Outlaw in 'Em;English
+2018;Serbia;19;113;38;75;1;26;15;2;10;3;Sanja Ilić and Balkanika;Nova deca (Нова деца);Serbian
+2018;Australia;20;99;90;9;1;12;6;2;16;9;Jessica Mauboy;We Got Love;English
+2018;Hungary;21;93;28;65;1;18;7;2;21;13;AWS;Viszlát nyár;Hungarian
+2018;Slovenia;22;64;41;23;1;25;12;2;3;17;Lea Sirk;Hvala, ne!;Slovene
+2018;Spain;23;61;43;18;1;22;0;0;2;0;Amaia and Alfred;Tu canción;Spanish
+2018;United Kingdom;24;48;23;25;1;8;0;0;9;0;SuRie;Storm;English
+2018;Finland;25;46;23;23;1;13;11;1;17;15;Saara Aalto;Monsters;English
+2018;Portugal;26;39;21;18;1;23;0;0;8;0;Cláudia Pascoal;O jardim;Portuguese
+2018;Romania;27;107;67;40;0;0;11;2;0;2;The Humans;Goodbye;English
+2018;Latvia;28;106;92;14;0;0;14;2;0;14;Laura Rizzotto;Funny Girl;English
+2018;Malta;29;101;93;8;0;0;10;2;0;12;Christabelle;Taboo;English
+2018;Azerbaijan;30;94;47;47;0;0;13;1;0;1;Aisel;X My Heart;English
+2018;Belgium;31;91;71;20;0;0;12;1;0;4;Sennek;A Matter of Time;English
+2018;Switzerland;32;86;59;27;0;0;9;1;0;17;Zibbz;Stones;English
+2018;Poland;33;81;21;60;0;0;9;2;0;11;Gromee feat. Lukas Meijer;Light Me Up;English
+2018;Greece;34;81;28;53;0;0;8;1;0;14;Yianna Terzi;Oniro mou (Όνειρό μου);Greek
+2018;Armenia;35;79;38;41;0;0;10;1;0;16;Sevak Khanagyan;Qami (Քամի);Armenian
+2018;Russia;36;65;14;51;0;0;13;2;0;6;Julia Samoylova;I Won't Break;English
+2018;Belarus;37;65;20;45;0;0;14;1;0;8;Alekseev;Forever;English
+2018;Croatia;38;63;46;17;0;0;17;1;0;12;Franka;Crazy;English
+2018;Montenegro;39;40;23;17;0;0;16;2;0;16;Vanja Radovanović;Inje (Иње);Montenegrin
+2018;San Marino;40;28;14;14;0;0;18;2;0;4;Jessika feat. Jenifer Brening;Who We Are;English
+2018;Georgia;41;24;11;13;0;0;17;2;0;10;Ethno-Jazz Band Iriao;For You;Georgian
+2018;North Macedonia;42;24;18;6;0;0;18;1;0;11;Eye Cue;Lost and Found;English
+2018;Iceland;43;15;15;0;0;0;19;1;0;2;Ari Ólafsson;Our Choice;English
+2017;Portugal;1;758;382;376;1;2;3;1;11;9;Salvador Sobral;Amar pelos dois;Portuguese
+2017;Bulgaria;2;615;278;337;1;1;1;2;25;15;Kristian Kostov;Beautiful Mess;English
+2017;Moldova;3;374;110;264;1;9;5;1;7;12;SunStroke Project;Hey Mamma;English
+2017;Belgium;4;363;108;255;1;4;7;1;23;5;Blanche;City Lights;English
+2017;Sweden;5;344;218;126;1;6;1;1;24;1;Robin Bengtsson;I Can't Go On;English
+2017;Italy;6;334;126;208;1;3;0;0;9;0;Francesco Gabbani;Occidentali's Karma;Italian
+2017;Romania;7;282;58;224;1;5;2;2;20;5;Ilinca feat. Alex Florea;Yodel It!;English
+2017;Hungary;8;200;48;152;1;17;6;2;8;7;Joci Pápai;Origo;Hungarian
+2017;Australia;9;173;171;2;1;14;9;1;14;3;Isaiah;Don't Come Easy;English
+2017;Norway;10;158;129;29;1;12;11;2;17;12;Jowst;Grab the Moment;English
+2017;Netherlands;11;150;135;15;1;13;3;2;6;6;OG3NE;Lights and Shadows;English
+2017;France;12;135;45;90;1;10;0;0;26;0;Alma;Requiem;French, English
+2017;Croatia;13;128;25;103;1;7;9;2;13;11;Jacques Houdek;My Friend;English, Italian
+2017;Azerbaijan;14;120;78;42;1;16;4;1;12;8;Dihaj;Skeletons;English
+2017;United Kingdom;15;111;99;12;1;8;0;0;18;0;Lucie Jones;Never Give Up on You;English
+2017;Austria;16;93;93;0;1;21;10;2;4;2;Nathan Trent;Running on Air;English
+2017;Belarus;17;83;50;33;1;22;8;2;3;14;Naviband;Story of My Life;Belarusian
+2017;Armenia;18;79;58;21;1;11;2;1;5;16;Artsvik;Fly with Me;English
+2017;Greece;19;77;48;29;1;20;6;1;15;10;Demy;This Is Love;English
+2017;Denmark;20;77;69;8;1;15;5;2;10;8;Anja Nissen;Where I Am;English
+2017;Cyprus;21;68;36;32;1;23;10;1;19;15;Hovig;Gravity;English
+2017;Poland;22;64;23;41;1;19;11;1;2;11;Kasia Moś;Flashlight;English
+2017;Israel;23;39;34;5;1;25;4;2;1;18;Imri;I Feel Alive;English
+2017;Ukraine;24;36;12;24;1;24;0;0;22;0;O.Torvald;Time;English
+2017;Germany;25;6;3;3;1;18;0;0;21;0;Levina;Perfect Life;English
+2017;Spain;26;5;0;5;1;26;0;0;16;0;Manel Navarro;Do It for Your Lover;Spanish, English
+2017;Georgia;27;99;62;37;0;0;13;1;0;2;Tamara Gachechiladze;Keep the Faith;English
+2017;Serbia;28;98;53;45;0;0;12;2;0;1;Tijana Bogićević;In Too Deep;English
+2017;Switzerland;29;97;48;49;0;0;13;2;0;13;Timebelle;Apollo;English
+2017;Finland;30;92;41;51;0;0;8;1;0;7;Norma John;Blackbird;English
+2017;Ireland;31;86;45;41;0;0;16;2;0;9;Brendan Murray;Dying to Try;English
+2017;Estonia;32;85;16;69;0;0;7;2;0;17;Koit Toome and Laura;Verona;English
+2017;Czech Republic;33;83;81;2;0;0;18;1;0;14;Martina Bárta;My Turn;English
+2017;Albania;34;76;38;38;0;0;17;1;0;4;Lindita;World;English
+2017;North Macedonia;35;69;29;40;0;0;14;2;0;3;Jana Burčeska;Dance Alone;English
+2017;Iceland;36;60;29;31;0;0;15;1;0;13;Svala;Paper;English
+2017;Montenegro;37;56;17;39;0;0;16;1;0;6;Slavko Kalezić;Space;English
+2017;Malta;38;55;55;0;0;0;15;2;0;4;Claudia Faniello;Breathlessly;English
+2017;Lithuania;39;42;17;25;0;0;17;2;0;16;Fusedmarc;Rain of Revolution;English
+2017;Slovenia;40;36;16;20;0;0;14;1;0;17;Omar Naber;On My Way;English
+2017;Latvia;41;21;1;20;0;0;12;1;0;18;Triana Park;Line;English
+2017;San Marino;42;1;0;1;0;0;18;1;0;10;Valentina Monetta and Jimmie Wilson;Spirit of the Night;English
+2016;Ukraine;1;534;323;211;1;3;1;2;21;14;Jamala;1944;English, Crimean Tatar
+2016;Australia;2;511;191;320;1;2;2;2;13;10;Dami Im;Sound of Silence;English
+2016;Russia;3;491;361;130;1;1;1;1;18;9;Sergey Lazarev;You Are the Only One;English
+2016;Bulgaria;4;307;180;127;1;8;6;2;8;12;Poli Genova;If Love Was a Crime;English, Bulgarian
+2016;Sweden;5;261;139;122;1;4;0;0;9;0;Frans;If I Were Sorry;English
+2016;France;6;257;109;148;1;5;0;0;11;0;Amir;J'ai cherché;French, English
+2016;Armenia;7;249;134;115;1;6;2;1;26;7;Iveta Mukuchyan;LoveWave;English
+2016;Poland;8;229;222;7;1;18;9;2;12;2;Michał Szpak;Color of Your Life;English
+2016;Lithuania;9;200;96;104;1;19;8;2;16;9;Donny Montell;I've Been Waiting for This Night;English
+2016;Belgium;10;181;51;130;1;14;5;2;1;18;Laura Tesoro;What's the Pressure;English
+2016;Netherlands;11;153;39;114;1;11;4;1;3;6;Douwe Bob;Slow Down;English
+2016;Malta;12;153;16;137;1;7;3;1;22;18;Ira Losco;Walk on Water;English
+2016;Austria;13;151;120;31;1;12;12;1;24;7;Zoë;Loin d'ici;French
+2016;Israel;14;135;11;124;1;17;7;2;7;4;Hovi Star;Made of Stars;English
+2016;Latvia;15;132;63;69;1;13;4;2;20;1;Justs;Heartbeat;English
+2016;Italy;16;124;34;90;1;15;0;0;6;0;Francesca Michielin;No Degree of Separation;Italian, English
+2016;Azerbaijan;17;117;73;44;1;21;9;1;4;14;Samra;Miracle;English
+2016;Serbia;18;115;80;35;1;20;3;2;15;6;Sanja Vučić ZAA;Goodbye (Shelter);English
+2016;Hungary;19;108;56;52;1;22;7;1;5;4;Freddie;Pioneer;English
+2016;Georgia;20;104;24;80;1;24;11;2;23;16;Nika Kocharov and Young Georgian Lolitaz;Midnight Gold;English
+2016;Cyprus;21;96;53;43;1;16;6;1;14;11;Minus One;Alter Ego;English
+2016;Spain;22;77;10;67;1;10;0;0;19;0;Barei;Say Yay!;English
+2016;Croatia;23;73;33;40;1;23;10;1;17;5;Nina Kraljić;Lighthouse;English
+2016;United Kingdom;24;62;8;54;1;9;0;0;25;0;Joe and Jake;You're Not Alone;English
+2016;Czech Republic;25;41;0;41;1;25;8;1;2;10;Gabriela Gunčíková;I Stand;English
+2016;Germany;26;11;10;1;1;26;0;0;10;0;Jamie-Lee;Ghost;English
+2016;Bosnia & Herzegovina;27;104;26;78;0;0;11;1;0;17;Dalal and Deen feat. Ana Rucner and Jala;Ljubav je;Bosnian
+2016;North Macedonia;28;88;34;54;0;0;12;2;0;8;Kaliopi;Dona (Дона);Macedonian
+2016;Belarus;29;84;32;52;0;0;14;2;0;5;Ivan;Help You Fly;English
+2016;San Marino;30;68;19;49;0;0;17;1;0;8;Serhat;I Didn't Know;English
+2016;Norway;31;63;29;34;0;0;10;2;0;15;Agnete;Icebreaker;English
+2016;Montenegro;32;60;46;14;0;0;18;1;0;15;Highway;The Real Thing;English
+2016;Slovenia;33;57;49;8;0;0;16;2;0;11;ManuElla;Blue and Red;English
+2016;Iceland;34;51;27;24;0;0;5;1;0;16;Greta Salóme;Hear Them Calling;English
+2016;Finland;35;51;35;16;0;0;15;1;0;1;Sandhja;Sing It Away;English
+2016;Ireland;36;46;15;31;0;0;15;2;0;7;Nicky Byrne;Sunlight;English
+2016;Albania;37;45;10;35;0;0;17;2;0;17;Eneda Tarifa;Fairytale;English
+2016;Greece;38;44;22;22;0;0;14;1;0;2;Argo;Utopian Land;English, Greek
+2016;Denmark;39;34;10;24;0;0;13;2;0;13;Lighthouse X;Soldiers of Love;English
+2016;Moldova;40;33;24;9;0;0;16;1;0;3;Lidia Isac;Falling Stars;English
+2016;Switzerland;41;28;25;3;0;0;18;2;0;3;Rykka;The Last of Our Kind;English
+2016;Estonia;42;24;9;15;0;0;13;1;0;13;Jüri Pootsmann;Play;English
+2015;Sweden;1;365;279;363;1;1;1;2;10;13;Måns Zelmerlöw;Heroes;English
+2015;Russia;2;303;286;247;1;2;1;1;25;12;Polina Gagarina;A Million Voices;English
+2015;Italy;3;292;366;184;1;3;0;0;27;0;Il Volo;Grande amore;Italian
+2015;Belgium;4;217;195;187;1;4;7;1;13;3;Loïc Nottet;Rhythm Inside;English
+2015;Australia;5;196;132;224;1;5;0;0;12;0;Guy Sebastian;Tonight Again;English
+2015;Latvia;6;186;100;249;1;9;5;2;19;10;Aminata;Love Injected;English
+2015;Estonia;7;106;144;56;1;6;2;1;4;7;Elina Born and Stig Rästa;Goodbye to Yesterday;English
+2015;Norway;8;102;43;163;1;8;2;2;9;6;Mørland and Debrah Scarlett;A Monster Like Me;English
+2015;Israel;9;97;104;80;1;10;6;2;3;9;Nadav Guedj;Golden Boy;English
+2015;Serbia;10;53;86;34;1;7;13;1;8;9;Bojana Stamenov;Beauty Never Lies;English
+2015;Georgia;11;51;52;62;1;14;4;1;23;16;Nina Sublatti;Warrior;English
+2015;Azerbaijan;12;49;48;48;1;11;3;2;24;11;Elnur Hüseynov;Hour of the Wolf;English
+2015;Montenegro;13;44;34;48;1;26;12;2;16;4;Knez;Adio (Адио);Montenegrin
+2015;Slovenia;14;39;27;48;1;13;4;2;1;16;Maraaya;Here for You;English
+2015;Romania;15;35;69;21;1;17;3;1;20;15;Voltaj;De la capăt;Romanian, English
+2015;Armenia;16;34;75;18;1;18;6;1;6;2;Genealogy;Face the Shadow;English
+2015;Albania;17;34;93;26;1;19;8;1;26;14;Elhaida Dani;I'm Alive;English
+2015;Lithuania;18;30;44;31;1;23;8;2;7;1;Monika Linkytė and Vaidas Baumila;This Time;English
+2015;Greece;19;23;24;29;1;16;5;1;15;6;Maria Elena Kyriakou;One Last Breath;English
+2015;Hungary;20;19;21;29;1;21;10;1;22;10;Boggie;Wars for Nothing;English
+2015;Spain;21;15;26;8;1;12;0;0;21;0;Edurne;Amanecer;Spanish
+2015;Cyprus;22;11;8;63;1;20;7;2;11;15;John Karayiannis;One Thing I Should Have Done;English
+2015;Poland;23;10;47;2;1;24;10;2;18;17;Monika Kuszyńska;In the Name of Love;English
+2015;United Kingdom;24;5;7;12;1;15;0;0;5;0;Electro Velvet;Still in Love with You;English
+2015;France;25;4;4;24;1;22;0;0;2;0;Lisa Angell;N'oubliez pas;French
+2015;Austria;26;0;0;40;1;25;0;0;14;0;The Makemakes;I Am Yours;English
+2015;Germany;27;0;5;24;1;27;0;0;17;0;Ann Sophie;Black Smoke;English
+2015;Malta;28;43;32;84;0;0;11;2;0;5;Amber;Warrior;English
+2015;Moldova;29;41;48;46;0;0;15;1;0;1;Eduard Romanyuta;I Want Your Love;English
+2015;Belarus;30;39;32;66;0;0;9;1;0;11;Uzari and Maimuna;Time;English
+2015;Ireland;31;35;14;84;0;0;15;2;0;2;Molly Sterling;Playing with Numbers;English
+2015;Denmark;32;33;23;58;0;0;12;1;0;13;Anti Social Media;The Way You Are;English
+2015;Netherlands;33;33;23;70;0;0;16;1;0;4;Trijntje Oosterhuis;Walk Along;English
+2015;Czech Republic;34;33;51;34;0;0;14;2;0;8;Marta Jandová and Václav Noid Bárta;Hope Never Dies;English
+2015;North Macedonia;35;28;22;42;0;0;14;1;0;8;Daniel Kajmakoski;Autumn Leaves;English
+2015;Portugal;36;19;16;23;0;0;16;2;0;7;Leonor Andrade;Há um mar que nos separa;Portuguese
+2015;Iceland;37;14;21;15;0;0;9;2;0;12;Maria Olafs;Unbroken;English
+2015;Finland;38;13;1;55;0;0;11;1;0;5;Pertti Kurikan Nimipäivät;Aina mun pitää;Finnish
+2015;San Marino;39;11;16;6;0;0;17;2;0;3;Anita Simoncini and Michele Perniola;Chain of Lights;English
+2015;Switzerland;40;4;6;15;0;0;13;2;0;14;Mélanie René;Time to Shine;English
