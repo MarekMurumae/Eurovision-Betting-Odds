@@ -1,0 +1,1318 @@
+song_id;Year;Order;Country;Singer;Title;Points;Place;in_english;songid;lovementions;population
+1;1956;1;Netherlands;Jetty Paerl;De Vogels Van Holland;0;0;FALSE;1;0;17000000
+2;1956;2;Switzerland;Lys Assia;Das Alte Karussel;0;0;FALSE;2;0;8420000
+3;1956;3;Belgium;Fud Leclerc;Messieurs Les Noyés Dans La Seine;0;0;FALSE;3;4;11350000
+4;1956;4;Germany;Walter Andreas Schwarz;Das Lied Vom Großen Glück;0;0;FALSE;4;0;82790000
+5;1956;5;France;Mathé Altéry;Le Temps Perdu;0;0;FALSE;5;6;67120000
+6;1956;6;Luxembourg;Michèle Arnaud;Ne Crois Pas;0;0;FALSE;6;2;590667
+7;1956;7;Italy;Franca Raimondi;Aprite Le Finestre;0;0;FALSE;7;4;60590000
+8;1956;8;Netherlands;Corry Brokken;Voorgoed Voorbij;0;0;FALSE;8;0;17000000
+9;1956;9;Switzerland;Lys Assia ;Refrain;0;1;FALSE;9;4;8420000
+10;1956;10;Belgium;Mony Marc;Le Plus Beau Jour De Ma Vie;0;0;FALSE;10;2;11350000
+11;1956;11;Germany;Freddy Quinn;So Geht Das Jede Nacht;0;0;FALSE;11;1;82790000
+12;1956;12;France;Dany Dauberson;Il Est Là;0;0;FALSE;12;1;67120000
+13;1956;13;Luxembourg;Michèle Arnaud;Les Amants De Minuit;0;0;FALSE;13;5;590667
+14;1956;14;Italy;Tonina Torrielli;Amami Se Vuoi;0;0;FALSE;14;5;60590000
+15;1957;1;Belgium;Bobbejaan Schoepen;Straatdeuntje;5;8;FALSE;15;0;11350000
+16;1957;2;Luxembourg;Danièle Dupré;Tant De Peine;8;5;FALSE;16;5;590667
+17;1957;3;United Kingdom;Patricia Bredin;All;6;7;TRUE;17;1;66020000
+18;1957;4;Italy;Nunzio Gallo;Corde Della Mia Chitarra;7;6;FALSE;18;0;60590000
+19;1957;5;Austria;Bob Martin;Wohin Kleines Pony;3;10;FALSE;19;0;8773000
+20;1957;6;Netherlands;Corry Brokken ;Net Als Toen;31;1;FALSE;20;1;17000000
+21;1957;7;Germany;Margot Hielscher;Telefon, Telefon;8;4;FALSE;21;0;82790000
+22;1957;8;France;Paule Desjardins;La Belle Amour;17;2;FALSE;22;6;67120000
+23;1957;9;Denmark;Birthe Wilke & Gustav Winckler;Skibet Skal Sejle I Nat;10;3;FALSE;23;1;5770000
+24;1957;10;Switzerland;Lys Assia;L'enfant Que J'etais;5;9;FALSE;24;6;8420000
+25;1958;1;Italy;Domenico Modugno;Nel Blu Dipinto Di Blu;13;3;FALSE;25;0;60590000
+26;1958;2;Netherlands;Corry Brokken;Heel De Wereld;1;10;FALSE;26;0;17000000
+27;1958;3;France;André Claveau ;Dors, Mon Amour;27;1;FALSE;27;10;67120000
+28;1958;4;Luxembourg;Solange Berry;Un Grand Amour;1;9;FALSE;28;8;590667
+29;1958;5;Sweden;Alice Babs;Lilla Stjärna;10;4;FALSE;29;1;9995000
+30;1958;6;Denmark;Raquel Rastenni;Jeg Rev Et Blad Ud Af Min Dagbog;3;8;FALSE;30;0;5770000
+31;1958;7;Belgium;Fud Leclerc;Ma Petite Chatte;8;5;FALSE;31;1;11350000
+32;1958;8;Germany;Margot Hielscher;Für Zwei Groschen Musik;5;7;FALSE;32;0;82790000
+33;1958;9;Austria;Liane Augustin;Die Ganze Welt Braucht Liebe;8;6;FALSE;33;6;8773000
+34;1958;10;Switzerland;Lys Assia;Giorgio;24;2;FALSE;34;6;8420000
+35;1959;1;France;Jean Philippe;Oui Oui Oui Oui;15;3;FALSE;35;0;67120000
+36;1959;2;Denmark;Birthe Wilke;Uh Jeg Ville Onske Jeg Var Dig;12;5;FALSE;36;4;5770000
+37;1959;3;Italy;Domenico Modugno;Piove;9;6;FALSE;37;5;60590000
+38;1959;4;Monaco;Jacques Pills;Mon Ami Pierrot;1;11;FALSE;38;5;38695
+39;1959;5;Netherlands;Teddy Scholten ;Een Beetje;21;1;FALSE;39;3;17000000
+40;1959;6;Germany;Alice & Ellen Kessler;Heute Abend Woll'n Wir Tanzen Geh'n;5;8;FALSE;40;0;82790000
+41;1959;7;Sweden;Brita Borg;Augustin;4;9;FALSE;41;3;9995000
+42;1959;8;Switzerland;Christa Williams;Irgendwoher;14;4;FALSE;42;3;8420000
+43;1959;9;Austria;Ferry Graf;Der K Und K Kalypso Aus Wien;4;10;FALSE;43;0;8773000
+44;1959;10;United Kingdom;Pearl Carr & Teddy Johnson;Sing Little Birdie;16;2;TRUE;44;12;66020000
+45;1959;11;Belgium;Bob Benny;Hou Toch Van Mij;9;7;FALSE;45;17;11350000
+46;1960;1;United Kingdom;Bryan Johnson;Looking High, High, High;25;2;TRUE;46;16;66020000
+47;1960;2;Sweden;Siw Malmkvist;Alla Andra Får Varann;4;11;FALSE;47;0;9995000
+48;1960;3;Luxembourg;Camillo Felgen;So Laang We's Du Do Bast;1;13;FALSE;48;1;590667
+49;1960;4;Denmark;Katy Bødtger;Det Var En Yndig Tid;4;10;FALSE;49;9;5770000
+50;1960;5;Belgium;Fud Leclerc;Mon Amour Pour Toi;9;6;FALSE;50;9;11350000
+51;1960;6;Norway;Nora Brockstedt;Voi Voi;11;5;FALSE;51;0;5258000
+52;1960;7;Austria;Harry Winter;Du Hast Mich So Fasziniert;6;7;FALSE;52;1;8773000
+53;1960;8;Monaco;François Deguelt;Ce Soir-là;15;3;FALSE;53;6;38695
+54;1960;9;Switzerland;Anita Traversi;Cielo E Terra;5;8;FALSE;54;3;8420000
+55;1960;10;Netherlands;Rudi Carrell;Wat Een Geluk;2;12;FALSE;55;5;17000000
+56;1960;11;Germany;Wyn Hoop;Bonne Nuit, Ma Cherie;11;4;FALSE;56;2;82790000
+57;1960;12;Italy;Renato Rascel;Romantica;5;9;FALSE;57;0;60590000
+58;1960;13;France;Jacqueline Boyer ;Tom Pillibi;32;1;FALSE;58;0;67120000
+59;1961;1;Spain;Conchita Bautista;Estando Contigo;8;9;FALSE;59;3;46570000
+60;1961;2;Monaco;Colette Deréal;Allons, Allons Les Enfants;6;10;FALSE;60;5;38695
+61;1961;3;Austria;Jimmy Makulis;Sehnsucht;1;15;FALSE;61;2;8773000
+62;1961;4;Finland;Laila Kinnunen;Valoa Ikkunassa;6;12;FALSE;62;1;5503000
+63;1961;5;Yugoslavia;Ljiljana Petrović;Neke Davne Zvezde;9;8;FALSE;63;0;22183000
+64;1961;6;Netherlands;Greetje Kauffeld;Wat Een Dag;6;11;FALSE;64;4;17000000
+65;1961;7;Sweden;Lill-Babs;April, April;2;14;FALSE;65;4;9995000
+66;1961;8;Germany;Lale Andersen;Einmal Sehen Wir Uns Wieder;3;13;FALSE;66;4;82790000
+67;1961;9;France;Jean-Paul Mauric;Printemps, avril carillonne;13;4;FALSE;67;0;67120000
+68;1961;10;Switzerland;Franca di Rienzo;Nous Aurons Demain;16;3;FALSE;68;0;8420000
+69;1961;11;Belgium;Bob Benny;September, Gouden Roos;1;16;FALSE;69;0;11350000
+70;1961;12;Norway;Nora Brockstedt;Sommer I Palma;10;7;FALSE;70;8;5258000
+71;1961;13;Denmark;Dario Campeotto;Angelique;12;5;FALSE;71;2;5770000
+72;1961;14;Luxembourg;Jean-Claude Pascal ;Nous Les Amoureux;31;1;FALSE;72;13;590667
+73;1961;15;United Kingdom;The Allisons;Are You Sure?;24;2;TRUE;73;0;66020000
+74;1961;16;Italy;Betty Curtis;Al Di Là;12;6;FALSE;74;0;60590000
+75;1962;1;Finland;Marion Rung;Tipi-tii;4;8;FALSE;75;2;5503000
+76;1962;2;Belgium;Fud Leclerc;Ton Nom;0;12;FALSE;76;1;11350000
+77;1962;3;Spain;Victor Balaguer;Llámame;0;12;FALSE;77;0;46570000
+78;1962;4;Austria;Eleonore Schwarz;Nur In Der Wiener Luft;0;13;FALSE;78;2;8773000
+79;1962;5;Denmark;Ellen Winther;Vuggevise;2;12;FALSE;79;0;5770000
+80;1962;6;Sweden;Inger Berggren;Sol Och Vår;4;7;FALSE;80;0;9995000
+81;1962;7;Germany;Conny Froboess;Zwei Kleiner Italiener;9;6;FALSE;81;0;82790000
+82;1962;8;Netherlands;De Spelbrekers;Katinka;0;12;FALSE;82;0;17000000
+83;1962;9;France;Isabelle Aubret ;Un Premier Amour;26;1;FALSE;83;18;67120000
+84;1962;10;Norway;Inger Jacobsen;Kom Sol, Kom Regn;2;10;FALSE;84;1;5258000
+85;1962;11;Switzerland;Jean Philippe;Le Retour;2;11;FALSE;85;1;8420000
+86;1962;12;Yugoslavia;Lola Novaković;Ne Pali Svetla U Sumrak;10;4;FALSE;86;0;22183000
+87;1962;13;United Kingdom;Ronnie Carroll;Ring-A-Ding Girl;10;5;TRUE;87;3;66020000
+88;1962;14;Luxembourg;Camillo Felgen;Petit Bonhomme;11;3;FALSE;88;1;590667
+89;1962;15;Italy;Claudio Villa;Addio, Addio;3;9;FALSE;89;5;60590000
+90;1962;16;Monaco;François Deguelt;Dis Rien;13;2;FALSE;90;3;38695
+91;1963;1;United Kingdom;Ronnie Carroll;Say Wonderful Things;28;4;TRUE;91;9;66020000
+92;1963;2;Netherlands;Annie Palmen;Speeldoos;0;12;FALSE;92;0;17000000
+93;1963;3;Germany;Heidi Brühl;Marcel;5;9;FALSE;93;2;82790000
+94;1963;4;Austria;Carmela Corren;Vielleicht Geschieht Ein Wunder;16;7;FALSE;94;5;8773000
+95;1963;5;Norway;Anita Thallaug;Solherv;0;12;FALSE;95;2;5258000
+96;1963;6;Italy;Emilio Pericoli;Uno Per Tutte;37;3;FALSE;96;1;60590000
+97;1963;7;Finland;Laila Halme;Muistojeni Laulu;0;12;FALSE;97;0;5503000
+98;1963;8;Denmark;Grethe & Jørgen Ingmann ;Dansevise;42;1;FALSE;98;2;5770000
+99;1963;9;Yugoslavia;Vice Vukov;Brodovi;3;11;FALSE;99;1;22183000
+100;1963;10;Switzerland;Esther Ofarim;T'en Va Pas;40;2;FALSE;100;0;8420000
+101;1963;11;France;Alain Barrière;Elle Était Si Jolie;25;6;FALSE;101;3;67120000
+102;1963;12;Spain;José Guardiola;Algo Prodigioso;2;12;FALSE;102;2;46570000
+103;1963;13;Sweden;Monica Zetterlund;En Gång I Stockholm;0;12;FALSE;103;1;9995000
+104;1963;14;Belgium;Jacques Raymond;Waarom?;4;10;FALSE;104;5;11350000
+105;1963;15;Monaco;Françoise Hardy;L'amour S'en Va;25;5;FALSE;105;0;38695
+106;1963;16;Luxembourg;Nana Mouskouri;A Force De Prier;13;8;FALSE;106;5;590667
+107;1964;1;Luxembourg;Hugues Aufray;Dès Que Le Printemps Revient;14;4;FALSE;107;0;590667
+108;1964;2;Netherlands;Anneke Grönloh;Jij Bent Mijn Leven;2;10;FALSE;108;0;17000000
+109;1964;3;Norway;Arne Bendiksen;Spiral;6;8;FALSE;109;0;5258000
+110;1964;4;Denmark;Bjørn Tidmand;Sangen Om Dig;4;9;FALSE;110;2;5770000
+111;1964;5;Finland;Lasse Mårtenson;Laiskotellen;9;7;FALSE;111;0;5503000
+112;1964;6;Austria;Udo Jürgens;Warum Nur, Warum?;11;6;FALSE;112;0;8773000
+113;1964;7;France;Rachel;Chant De Mallory;14;5;FALSE;113;6;67120000
+114;1964;8;United Kingdom;Matt Monro;I Love The Little Things;17;2;TRUE;114;20;66020000
+115;1964;9;Germany;Nora Nova;Man Gewöhnt Sich So Schnell An Das Schöne;0;12;FALSE;115;6;82790000
+116;1964;10;Monaco;Romuald;Ou Sont-elles Passees?;15;3;FALSE;116;4;38695
+117;1964;11;Portugal;António Calvário;Oração;0;12;FALSE;117;7;10310000
+118;1964;12;Italy;Gigliola Cinquetti ;Non Ho L'età;49;1;FALSE;118;7;60590000
+119;1964;13;Yugoslavia;Sabahudin Kurt;Zivot Je Sklopio Krug;0;12;FALSE;119;0;22183000
+120;1964;14;Switzerland;Anita Traversi;I Miei Pensieri;0;12;FALSE;120;2;8420000
+121;1964;15;Belgium;Robert Cogoi;Près De Ma Rivière;2;11;FALSE;121;4;11350000
+122;1964;16;Spain;Nelly, Tim & Tony (Los TNT);Caracola;1;12;FALSE;122;6;46570000
+123;1965;1;Netherlands;Conny Van Den Bos;'t Is Genoeg;5;11;FALSE;123;4;17000000
+124;1965;2;United Kingdom;Kathy Kirby;I Belong;26;2;TRUE;124;3;66020000
+125;1965;3;Spain;Conchita Bautista;Qué Bueno, Que Bueno;0;14;FALSE;125;2;46570000
+126;1965;4;Ireland;Butch Moore;I'm Walking The Streets In The Rain;11;6;TRUE;126;0;4784000
+127;1965;5;Germany;Ulla Wiesner;Paradies, Wo Bist Du?;0;14;FALSE;127;0;82790000
+128;1965;6;Austria;Udo Jürgens;Sag Ihr, Ich Lass Sie Grüssen;16;4;FALSE;128;7;8773000
+129;1965;7;Norway;Kirsti Sparboe;Karusell;1;14;FALSE;129;1;5258000
+130;1965;8;Belgium;Lize Marke;Als Het Weer Lente Is;0;14;FALSE;130;0;11350000
+131;1965;9;Monaco;Marjorie Noël;Va Dire À l'Amour;7;9;FALSE;131;5;38695
+132;1965;10;Sweden;Ingvar Wixell;Absent Friend;6;10;TRUE;132;2;9995000
+133;1965;11;France;Guy Mardel;N'avoue Jamais;22;3;FALSE;133;10;67120000
+134;1965;12;Portugal;Simone de Oliveira;Sol De Inverno;1;13;FALSE;134;5;10310000
+135;1965;13;Italy;Bobby Solo;Se Piangi, Se Ridi;15;5;FALSE;135;2;60590000
+136;1965;14;Denmark;Birgit Brüel;For Din Skyld;10;7;FALSE;136;2;5770000
+137;1965;15;Luxembourg;France Gall ;Poupée De Cire, Poupée De Son;32;1;FALSE;137;1;590667
+138;1965;16;Finland;Viktor Klimenko;Aurinko Laskee Lånteen;0;14;FALSE;138;3;5503000
+139;1965;17;Yugoslavia;Vice Vukov;Cežnja;2;12;FALSE;139;1;22183000
+140;1965;18;Switzerland;Yovanna;Non A Jamais Sans Toi;8;8;FALSE;140;1;8420000
+141;1966;1;Germany;Margot Eskens;Die Zeiger Der Uhr;7;10;FALSE;141;1;82790000
+142;1966;2;Denmark;Ulla Pia;Stop, Mens Legen Er Go;4;14;FALSE;142;2;5770000
+143;1966;3;Belgium;Tonia;Un Peu De Poivre, Un Peu De Sel;14;4;FALSE;143;9;11350000
+144;1966;4;Luxembourg;Michèle Torr;Ce Soir Je T'attendais;7;11;FALSE;144;1;590667
+145;1966;5;Yugoslavia;Berta Ambrož;Brez Besed;9;7;FALSE;145;0;22183000
+146;1966;6;Norway;Åse Kleveland;Intet Er Nytt Under Solen;15;3;FALSE;146;0;5258000
+147;1966;7;Finland;Ann Christine Nyström;Playboy;7;12;FALSE;147;0;5503000
+148;1966;8;Portugal;Madalena Iglésias;Ele E Ela;6;13;FALSE;148;4;10310000
+149;1966;9;Austria;Udo Jürgens ;Merci Chérie;31;1;FALSE;149;4;8773000
+150;1966;10;Sweden;Lill Lindfors & Svante Thuresson;Nygammal Vals;16;2;FALSE;150;0;9995000
+151;1966;11;Spain;Raphael;Yo Soy Aquél;9;8;FALSE;151;11;46570000
+152;1966;12;Switzerland;Madeleine Pascal;Ne Vois-Tu Pas?;12;6;FALSE;152;6;8420000
+153;1966;13;Monaco;Tereza Kesovija;Bien Plus Fort;0;17;FALSE;153;12;38695
+154;1966;14;Italy;Domenico Modugno;Dio Come Ti Amo;0;17;FALSE;154;12;60590000
+155;1966;15;France;Dominique Walter;Chez Nous;1;16;FALSE;155;1;67120000
+156;1966;16;Netherlands;Milly Scott;Fernando & Philippo;2;15;FALSE;156;1;17000000
+157;1966;17;Ireland;Dickie Rock;Come Back To Stay;14;5;TRUE;157;2;4784000
+158;1966;18;United Kingdom;Kenneth McKellar;A Man Without Love;8;9;TRUE;158;7;66020000
+159;1967;1;Netherlands;Thérèse Steinmetz;Ringe Ding;2;14;FALSE;159;0;17000000
+160;1967;2;Luxembourg;Vicky Leandros;L'amour Est Bleu;17;4;FALSE;160;11;590667
+161;1967;3;Austria;Peter Horten;Warum Es 100.000 Sterne Gibt;2;16;FALSE;161;1;8773000
+162;1967;4;France;Noëlle Cordier;Il Doit Faire Beau La-bas;20;3;FALSE;162;0;67120000
+163;1967;5;Portugal;Eduardo Nascimento;O Vento Mudou;3;12;FALSE;163;1;10310000
+164;1967;6;Switzerland;Géraldine;Quel Coeur Vas-tu Briser?;0;16;FALSE;164;0;8420000
+165;1967;7;Sweden;Östen Warnerbring;Som En Dröm;7;8;FALSE;165;0;9995000
+166;1967;8;Finland;Fredi;Varjoon-suojaan;3;13;FALSE;166;1;5503000
+167;1967;9;Germany;Inge Brück;Anouschka;7;10;FALSE;167;1;82790000
+168;1967;10;Belgium;Louis Neefs;Oh, Oh Ik Heb Zorgen;8;7;FALSE;168;0;11350000
+169;1967;11;United Kingdom;Sandie Shaw ;Puppet On A String;47;1;TRUE;169;4;66020000
+170;1967;12;Spain;Raphael;Hablemos Del Amor;9;6;FALSE;170;11;46570000
+171;1967;13;Norway;Kirsti Sparboe;Dukkemann;2;15;FALSE;171;0;5258000
+172;1967;14;Monaco;Minouche Barelli;Boum Badaboum;10;5;FALSE;172;2;38695
+173;1967;15;Yugoslavia;Lado Leskovar;Vse Rože Sveta;7;9;FALSE;173;0;22183000
+174;1967;16;Italy;Claudio Villa;Non Andare Più Lontano;4;11;FALSE;174;15;60590000
+175;1967;17;Ireland;Sean Dunphy;If I Could Choose;22;2;TRUE;175;0;4784000
+176;1968;1;Portugal;Carlos Mendes;Verão;5;11;FALSE;176;0;10310000
+177;1968;2;Netherlands;Ronnie Tober;Morgen;1;16;FALSE;177;0;17000000
+178;1968;3;Belgium;Claude Lombard;Quand Tu Reviendras;8;9;FALSE;178;4;11350000
+179;1968;4;Austria;Karel Gott;Tausend Fenster;2;13;FALSE;179;0;8773000
+180;1968;5;Luxembourg;Chris Baldo & Sophie Garel;Nous Vivrons D'amour;5;12;FALSE;180;10;590667
+181;1968;6;Switzerland;Gianni Mascolo;Guardando Il Sole;2;14;FALSE;181;5;8420000
+182;1968;7;Monaco;Line & Willy;A Chacun Sa Chanson;8;8;FALSE;182;12;38695
+183;1968;8;Sweden;Claes-Göran Hederström;Det Börjar Verka Kärlek Banne Mej;15;5;FALSE;183;7;9995000
+184;1968;9;Finland;Kristina Hautala;Kun Kello Käy;1;17;FALSE;184;2;5503000
+185;1968;10;France;Isabelle Aubret;La Source;20;3;FALSE;185;0;67120000
+186;1968;11;Italy;Sergio Endrigo;Marianne;7;10;FALSE;186;6;60590000
+187;1968;12;United Kingdom;Cliff Richard;Congratulations;28;2;TRUE;187;4;66020000
+188;1968;13;Norway;Odd Børre;Stress;2;15;FALSE;188;0;5258000
+189;1968;14;Ireland;Pat McGeegan;Chance Of A Lifetime;18;4;TRUE;189;1;4784000
+190;1968;15;Spain;Massiel ;La La La;29;1;FALSE;190;1;46570000
+191;1968;16;Germany;Wencke Myhre;Ein Hoch Der Liebe;11;6;FALSE;191;22;82790000
+192;1968;17;Yugoslavia;Luci Kapurso & Hamo Hajdarhodzic;Jedan Dan;8;7;FALSE;192;4;22183000
+193;1969;1;Yugoslavia;Ivan;Pozdrav Svijetu;5;13;FALSE;193;0;22183000
+194;1969;2;Luxembourg;Romuald;Catherine;7;11;FALSE;194;2;590667
+195;1969;3;Spain;Salomé ;Vivo Cantando;18;1;FALSE;195;2;46570000
+196;1969;4;Monaco;Jean-Jacques;Maman, Maman;11;6;FALSE;196;0;38695
+197;1969;5;Ireland;Muriel Day & the Lindsays;The Wages Of Love;10;7;TRUE;197;15;4784000
+198;1969;6;Italy;Iva Zanicchi;Due Grosse Lacrime Bianche;5;14;FALSE;198;2;60590000
+199;1969;7;United Kingdom;Lulu ;Boom Bang-a-bang;18;1;TRUE;199;7;66020000
+200;1969;8;Netherlands;Lenny Kuhr ;De Troubadour;18;1;FALSE;200;1;17000000
+201;1969;9;Sweden;Tommy Körberg;Judy Min Vaen;8;9;FALSE;201;1;9995000
+202;1969;10;Belgium;Louis Neefs;Jennifer Jennings;10;8;FALSE;202;1;11350000
+203;1969;11;Switzerland;Paola del Medico;Bonjour, Bonjour;13;5;FALSE;203;5;8420000
+204;1969;12;Norway;Kirsti Sparboe;Oj, Oj, Oj, Sa Glad Jeg Skal Bli;1;16;FALSE;204;0;5258000
+205;1969;13;Germany;Siw Malmkvist;Primaballerina;8;10;FALSE;205;4;82790000
+206;1969;14;France;Frida Boccara ;Un Jour, Un Enfant;18;1;FALSE;206;1;67120000
+207;1969;15;Portugal;Simone de Oliveira;Desfolhada Portuguêsa;4;15;FALSE;207;10;10310000
+208;1969;16;Finland;Jarkko & Laura;Kuin Silloin Ennen;6;12;FALSE;208;0;5503000
+209;1970;1;Netherlands;The Hearts Of Soul;Waterman;7;7;FALSE;209;1;17000000
+210;1970;2;Switzerland;Henri Dès;Retour;8;6;FALSE;210;3;8420000
+211;1970;3;Italy;Gianni Morandi;Occhi Di Ragazza;5;9;FALSE;211;1;60590000
+212;1970;4;Yugoslavia;Eva Sršen;Pridi, Dala Ti Bom Cvet;4;11;FALSE;212;0;22183000
+213;1970;5;Belgium;Jean Vallée;Viens L'oublier;5;8;FALSE;213;5;11350000
+214;1970;6;France;Guy Bonnet;Marie Blanche;8;5;FALSE;214;2;67120000
+215;1970;7;United Kingdom;Mary Hopkin;Knock, Knock Who's There?;26;2;TRUE;215;3;66020000
+216;1970;8;Luxembourg;David-Alexandre Winter;Je Suis Tombé Du Ciel;0;11;FALSE;216;0;590667
+217;1970;9;Spain;Julio Iglesias;Gwendolyne;8;4;FALSE;217;5;46570000
+218;1970;10;Monaco;Dominique Dussault;Marlène;5;10;FALSE;218;1;38695
+219;1970;11;Germany;Katja Ebstein;Wunder Gibt Es Immer Wieder;12;3;FALSE;219;1;82790000
+220;1970;12;Ireland;Dana ;All Kinds Of Everything;32;1;TRUE;220;1;4784000
+221;1971;1;Austria;Marianne Mendt;Musik;66;16;FALSE;221;0;8773000
+222;1971;2;Malta;Joe Grech;Marija L-maltija;52;18;FALSE;222;0;460297
+223;1971;3;Monaco;Séverine ;Un Banc, Un Arbre, Une Rue;128;1;FALSE;223;0;38695
+224;1971;4;Switzerland;Peter, Sue & Marc;Les Illusions De Nos Vingt Ans;78;12;FALSE;224;1;8420000
+225;1971;5;Germany;Katja Ebstein;Diese Welt;100;3;FALSE;225;0;82790000
+226;1971;6;Spain;Karina;En Un Mundo Nuevo;116;2;FALSE;226;7;46570000
+227;1971;7;France;Serge Lama;Un Jardin Sur La Terre;82;10;FALSE;227;0;67120000
+228;1971;8;Luxembourg;Monique Melsen;Pomme, Pomme, Pomme;70;13;FALSE;228;4;590667
+229;1971;9;United Kingdom;Clodagh Rodgers;Jack In The Box;98;4;TRUE;229;7;66020000
+230;1971;10;Belgium;Lily Castel & Jacques Raymond;Goeie Morgen, Morgen;68;15;FALSE;230;0;11350000
+231;1971;11;Italy;Massimo Ranieri;L'amore E Un Attimo;91;5;FALSE;231;3;60590000
+232;1971;12;Sweden;Family Four;Vita Vidder;85;6;FALSE;232;0;9995000
+233;1971;13;Ireland;Angela Farrell;One Day Love;79;11;TRUE;233;11;4784000
+234;1971;14;Netherlands;Saskia & Serge;De Tijd;85;7;FALSE;234;0;17000000
+235;1971;15;Portugal;Tonicha;Menina;83;9;FALSE;235;0;10310000
+236;1971;16;Yugoslavia;Krunoslav Slabinac;Tvoj Dječak Je Tužan;68;14;FALSE;236;0;22183000
+237;1971;17;Finland;Markku Aro & Koivisto sisters;Tie Uuteen Paivaan;84;8;FALSE;237;0;5503000
+238;1971;18;Norway;Hanne Krogh;Lykken Er ...;65;17;FALSE;238;0;5258000
+239;1972;1;Germany;Mary Roos;Nur Die Liebe Lässt Uns Leben;107;3;FALSE;239;17;82790000
+240;1972;2;France;Betty Mars;Come Comédie;81;11;FALSE;240;6;67120000
+241;1972;3;Ireland;Sandie Jones;Ceol An Ghra;72;15;FALSE;241;18;4784000
+242;1972;4;Spain;Jaime Morey;Amanece;83;10;FALSE;242;1;46570000
+243;1972;5;United Kingdom;The New seekers;Beg, Steal Or Borrow;114;2;TRUE;243;13;66020000
+244;1972;6;Norway;Grethe Kausland & Benny Borg;Småting;73;14;FALSE;244;1;5258000
+245;1972;7;Portugal;Carlos Mendes;A Festa Da Vida;90;7;FALSE;245;1;10310000
+246;1972;8;Switzerland;Véronique Müller;C'est La Chanson De Mon Amour;88;8;FALSE;246;11;8420000
+247;1972;9;Malta;Helen & Joseph;L-imhabba;48;18;FALSE;247;2;460297
+248;1972;10;Finland;Päivi Paunu & Kim Floor;Muistathan;78;12;FALSE;248;2;5503000
+249;1972;11;Austria;Milestones;Falter Im Wind;100;5;FALSE;249;0;8773000
+250;1972;12;Italy;Nicola di Bari;I Giorni Dell' Arcobaleno;92;6;FALSE;250;1;60590000
+251;1972;13;Yugoslavia;Tereza;Musika I Ti;87;9;FALSE;251;4;22183000
+252;1972;14;Sweden;Family Four;Härliga Sommardag;75;13;FALSE;252;4;9995000
+253;1972;15;Monaco;Anne-Marie Godart & Peter McLane;Comme On S'aime;65;16;FALSE;253;23;38695
+254;1972;16;Belgium;Serge & Christine Ghisoland;A La Folie Ou Pas Du Tout;55;17;FALSE;254;7;11350000
+255;1972;17;Luxembourg;Vicky Leandros ;Après Toi;128;1;FALSE;255;2;590667
+256;1972;18;Netherlands;Sandra & Andres;Als Het Om De Liefde Gaat;106;4;FALSE;256;4;17000000
+257;1973;1;Finland;Marion Rung;Tom Tom Tom;93;6;TRUE;257;7;5503000
+258;1973;2;Belgium;Nicole & Hugo;Baby Baby;58;17;FALSE;258;12;11350000
+259;1973;3;Portugal;Fernando Tordo;Tourada;80;10;FALSE;259;0;10310000
+260;1973;4;Germany;Gitte;Junger Tag;85;9;FALSE;260;3;82790000
+261;1973;5;Norway;Bendik Singers;It's Just A Game;89;7;FALSE;261;10;5258000
+262;1973;6;Monaco;Marie;Un Train Qui Part;85;8;FALSE;262;1;38695
+263;1973;7;Spain;Mocedades;Eres Tú;125;2;FALSE;263;0;46570000
+264;1973;8;Switzerland;Patrick Juvet;Je Vais Me Marier, Marie;79;12;FALSE;264;2;8420000
+265;1973;9;Yugoslavia;Zdravko Čolić;Gori Vatra;65;15;FALSE;265;4;22183000
+266;1973;10;Italy;Massimo Ranieri;Chi Sarà;74;13;FALSE;266;2;60590000
+267;1973;11;Luxembourg;Anne-Marie David ;Tu Te Reconnaîtras;129;1;FALSE;267;2;590667
+268;1973;12;Sweden;Nova & the Dolls;You're Summer;94;5;TRUE;268;0;9995000
+269;1973;13;Netherlands;Ben Cramer;De Oude Muzikant;69;14;FALSE;269;0;17000000
+270;1973;14;Ireland;Maxi;Do I Dream?;80;11;TRUE;270;7;4784000
+271;1973;15;United Kingdom;Cliff Richard;Power To All Our Friends;123;3;TRUE;271;0;66020000
+272;1973;16;France;Martine Clémenceau;Sans Toi;65;16;FALSE;272;2;67120000
+273;1973;17;Israel;Ilanit / אילנית;Ei Sham / אי שם;97;4;FALSE;273;4;8712000
+274;1974;1;Finland;Carita;Keep Me Warm;4;13;TRUE;274;2;5503000
+275;1974;2;United Kingdom;Olivia Newton-John;Long Live Love;14;4;TRUE;275;15;66020000
+276;1974;3;Spain;Peret;Canta Y Se Feliz;10;10;FALSE;276;3;46570000
+277;1974;4;Norway;Anne-Karine Strøm & the Bendik Singers;The First Day Of Love;3;15;TRUE;277;6;5258000
+278;1974;5;Greece;Marinella / Μαρινέλλα;Krassi, Thalassa Ke T'agori Mou / Κρασί, θάλασσα και τ'αγόρι μου;7;11;FALSE;278;1;10770000
+279;1974;6;Israel;Poogy / כוורת;Natati La Cha'yay / נתתי לה חיי;11;7;FALSE;279;0;8712000
+280;1974;7;Yugoslavia;Korni Grupa;Moja Generacija;6;12;FALSE;280;0;22183000
+281;1974;8;Sweden;Abba ;Waterloo;24;1;TRUE;281;2;9995000
+282;1974;9;Luxembourg;Ireen Sheer;Bye Bye I Love You;14;5;FALSE;282;16;590667
+283;1974;10;Monaco;Romuald;Celui Qui Reste Et Celui Qui S'en Va;14;6;FALSE;283;2;38695
+284;1974;11;Belgium;Jacques Hustin;Fleur De Liberté;10;9;FALSE;284;4;11350000
+285;1974;12;Netherlands;Mouth & MacNeal;I See A Star;15;3;TRUE;285;0;17000000
+286;1974;13;Ireland;Tina;Cross Your Heart;11;8;TRUE;286;3;4784000
+287;1974;14;Germany;Cindy & Bert;Die Sommermelodie;3;16;FALSE;287;4;82790000
+288;1974;15;Switzerland;Piera Martell;Mein Ruf Nach Dir;3;17;FALSE;288;7;8420000
+289;1974;16;Portugal;Paulo de Carvalho;E Depois Do Adeus;3;14;FALSE;289;5;10310000
+290;1974;17;Italy;Gigliola Cinquetti;Sì;18;2;FALSE;290;2;60590000
+291;1975;1;Netherlands;Teach-In ;Ding-a-dong;152;1;TRUE;291;8;17000000
+292;1975;2;Ireland;The Swarbriggs;That's What Friends Are For;68;9;TRUE;292;0;4784000
+293;1975;3;France;Nicole Rieu;Et Bonjour A Toi L' Artiste;91;4;FALSE;293;0;67120000
+294;1975;4;Germany;Joy Fleming;Ein Lied Kann Eine Brücke Sein;15;17;FALSE;294;0;82790000
+295;1975;5;Luxembourg;Géraldine;Toi;84;5;FALSE;295;5;590667
+296;1975;6;Norway;Ellen Nikolaysen;Touch My Life With Summer;11;18;TRUE;296;1;5258000
+297;1975;7;Switzerland;Simone Drexel;Mikado;77;6;FALSE;297;0;8420000
+298;1975;8;Yugoslavia;Pepel in kri;Dan Ljubezni;22;13;FALSE;298;9;22183000
+299;1975;9;United Kingdom;The Shadows;Let Me Be The One;138;2;TRUE;299;0;66020000
+300;1975;10;Malta;Renato;Singing This Song;32;12;TRUE;300;2;460297
+301;1975;11;Belgium;Ann Christy;Gelukkig Zijn;17;15;FALSE;301;0;11350000
+302;1975;12;Israel;Shlomo Artzi / שלמה ארצי;At Ve' Ani / את ואני;40;11;FALSE;302;0;8712000
+303;1975;13;Turkey;Semiha Yanki;Seninle Bir Dakita;3;19;FALSE;303;3;79810000
+304;1975;14;Monaco;Sophie;Une Chanson C'est Une Lettre;22;14;FALSE;304;3;38695
+305;1975;15;Finland;Pihasoittajat;Old Man Fiddle;74;7;TRUE;305;0;5503000
+306;1975;16;Portugal;Duarte Mendes;Madrugada;16;16;FALSE;306;0;10310000
+307;1975;17;Spain;Sergio y Estíbaliz;Tú Volveras;53;10;FALSE;307;0;46570000
+308;1975;18;Sweden;Lars Berghagen;Jennie, Jennie;72;8;TRUE;308;1;9995000
+309;1975;19;Italy;Wess & Dori Ghezzi;Era;115;3;FALSE;309;6;60590000
+310;1976;1;United Kingdom;Brotherhood of Man ;Save Your Kisses For Me;164;1;TRUE;310;6;66020000
+311;1976;2;Switzerland;Peter, Sue & Marc;Djambo, Djambo;91;4;TRUE;311;0;8420000
+312;1976;3;Germany;Les Humphries Singers;Sing, Sang, Song;12;15;FALSE;312;1;82790000
+313;1976;4;Israel;Chocolate, Menta, Mastik / שוקולד מנטה מסטיק;Emor Shalom / אמור שלום;77;6;FALSE;313;0;8712000
+314;1976;5;Luxembourg;Jürgen Marcus;Chansons Pour Ceux Qui S'aiment;17;14;FALSE;314;6;590667
+315;1976;6;Belgium;Pierre Rapsat;Judy Et Cie;68;8;FALSE;315;0;11350000
+316;1976;7;Ireland;Red Hurley;When;54;10;TRUE;316;4;4784000
+317;1976;8;Netherlands;Sandra Reemer;The Party's Over;56;9;TRUE;317;0;17000000
+318;1976;9;Norway;Anne-Karine Strøm;Mata Hari;7;17;TRUE;318;0;5258000
+319;1976;10;Greece;Mariza Koch / Μαρίζα Κωχ;Panaghia Mou, Panaghia Mou / Παναγιά μου, Παναγιά μου;20;13;FALSE;319;0;10770000
+320;1976;11;Finland;Fredi & Friends;Pump Pump;44;11;TRUE;320;3;5503000
+321;1976;12;Spain;Braulio;Sobran Las Palabras;11;16;FALSE;321;14;46570000
+322;1976;13;Italy;Al Bano & Romina Power;We'll Live It All Again (Lo Rivivrei);69;7;FALSE;322;1;60590000
+323;1976;14;Austria;Waterloo & Robinson;My Little World;80;5;TRUE;323;10;8773000
+324;1976;15;Portugal;Carlos do Carmo;Uma Flor De Verde Pinho;24;12;FALSE;324;10;10310000
+325;1976;16;Monaco;Mary Christy;Toi, La Musique Et Moi;93;3;FALSE;325;2;38695
+326;1976;17;France;Catherine Ferry;Un, Deux, Trois;147;2;FALSE;326;5;67120000
+327;1976;18;Yugoslavia;Ambasadori;Ne Mogu Skriti Svoju Bol;6;18;FALSE;327;7;22183000
+328;1977;1;Ireland;The Swarbriggs Plus Two;It's Nice To Be In Love Again;119;3;TRUE;328;12;4784000
+329;1977;2;Monaco;Michèle Torr;Une Petite Française;96;4;FALSE;329;1;38695
+330;1977;3;Netherlands;Heddy Lester;De Mallemolen;35;12;FALSE;330;0;17000000
+331;1977;4;Austria;Schmetterlinge;Boom Boom Boomerang;11;17;FALSE;331;1;8773000
+332;1977;5;Norway;Anita Skorgan;Casanova;18;15;FALSE;332;0;5258000
+333;1977;6;Germany;Silver Convention;Telegram;55;8;TRUE;333;1;82790000
+334;1977;7;Luxembourg;Anne-Marie B;Frère Jacques;17;16;FALSE;334;0;590667
+335;1977;8;Portugal;Os Amigos;Portugal No Coração;18;14;FALSE;335;3;10310000
+336;1977;9;United Kingdom;Lynsey de Paul & Mike Moran;Rock Bottom;121;2;TRUE;336;0;66020000
+337;1977;10;Greece;Pascalis, Marianna, Robert & Bessy / Πασχάλης, Μαριάννα, Ρόμπερτ & Μπέσσυ;Mathema Solfege / Μάθημα σολφέζ;92;5;FALSE;337;1;10770000
+338;1977;11;Israel;Ilanit / אילנית;Ha'ava Hi Shir Lishnayim / אהבה היא שיר לשניים;49;11;FALSE;338;0;8712000
+339;1977;12;Switzerland;Pepe Lienhard Band;Swiss Lady;71;6;FALSE;339;0;8420000
+340;1977;13;Sweden;Forbes;Beatles;2;18;FALSE;340;1;9995000
+341;1977;14;Spain;Micky;Enséname A Cantar;52;9;FALSE;341;8;46570000
+342;1977;15;Italy;Mia Martini;Libera;33;13;FALSE;342;1;60590000
+343;1977;16;Finland;Monica Aspelund;Lapponia;50;10;FALSE;343;1;5503000
+344;1977;17;Belgium;Dream Express;A Million In One, Two, Three;69;7;TRUE;344;0;11350000
+345;1977;18;France;Marie Myriam ;L'oiseau Et L'enfant;136;1;FALSE;345;7;67120000
+346;1978;1;Ireland;Colm T. Wilkinson;Born To Sing;86;5;TRUE;346;0;4784000
+347;1978;2;Norway;Jahn Teigen;Mil Etter Mil;0;19;FALSE;347;0;5258000
+348;1978;3;Italy;Ricchi e Poveri;Questo Amore;53;12;FALSE;348;9;60590000
+349;1978;4;Finland;Seija Simola;Anna Rakkaudelle Tilaisuus;2;18;FALSE;349;5;5503000
+350;1978;5;Portugal;Gemini;Dai-li-dou;5;17;FALSE;350;0;10310000
+351;1978;6;France;Joël Prévost;Il Y Aura Toujours Des Violons;119;3;FALSE;351;9;67120000
+352;1978;7;Spain;José Vélez;Bailemos Un Vals;65;9;FALSE;352;0;46570000
+353;1978;8;United Kingdom;Co-Co;The Bad Old Days;61;11;TRUE;353;2;66020000
+354;1978;9;Switzerland;Carole Vinci;Vivre;65;10;FALSE;354;3;8420000
+355;1978;10;Belgium;Jean Vallée;L'amour Ca Fait Chanter La Vie;125;2;FALSE;355;0;11350000
+356;1978;11;Netherlands;Harmony;'t Is Ok;37;13;FALSE;356;0;17000000
+357;1978;12;Turkey;Nazar;Sevince;2;19;FALSE;357;23;79810000
+358;1978;13;Germany;Ireen Sheer;Feuer;84;6;FALSE;358;2;82790000
+359;1978;14;Monaco;Caline & Olivier Toussaint;Les Jardins De Monaco;107;4;FALSE;359;3;38695
+360;1978;15;Greece;Tania Tsanaklidou / Τάνια Τσανακλίδου;Charlie Chaplin / Τσάρλι Τσάπλιν;66;8;FALSE;360;0;10770000
+361;1978;16;Denmark;Mabel;Boom Boom;13;16;FALSE;361;5;5770000
+362;1978;17;Luxembourg;Baccara;Parlez-vous Français;73;7;FALSE;362;10;590667
+363;1978;18;Israel;Izhar Cohen & the Alphabeta / יזהר כהן ;A-ba-ni-bi / אבניבי;157;1;FALSE;363;25;8712000
+364;1978;19;Austria;Springtime;Mrs. Caroline Robinson;14;15;FALSE;364;0;8773000
+365;1978;20;Sweden;Björn Skifs;Det Blir Alltid Värre Framat Natten;26;14;FALSE;365;0;9995000
+366;1979;1;Portugal;Manuela Bravo;Sobe, Sobe Balão Sobe;64;9;FALSE;366;10;10310000
+367;1979;2;Italy;Matia Bazar;Raggio Di Luna;27;15;FALSE;367;1;60590000
+368;1979;3;Denmark;Tommy Seebach;Disco Tango;76;6;FALSE;368;0;5770000
+369;1979;4;Ireland;Cathal Dunne;Happy Man;80;5;TRUE;369;8;4784000
+370;1979;5;Finland;Katri Helena;Katson Sineen Taivaan;38;14;FALSE;370;4;5503000
+371;1979;6;Monaco;Laurent Vaguener;Notre Vie, C'est La Musique;12;16;FALSE;371;12;38695
+372;1979;7;Greece;Elpida / Ελπίδα;Socrates / Σωκράτης;69;8;FALSE;372;2;10770000
+373;1979;8;Switzerland;Peter, Sue & Marc and Pfuri, Gorps & Kniri;Trödler Und Co;60;10;FALSE;373;0;8420000
+374;1979;9;Germany;Dschingis Khan;Dschingis Khan;86;4;FALSE;374;1;82790000
+375;1979;10;Israel;Milk & Honey / גלי עטרי וחלב ודבש ;Hallelujah / הללויה;125;1;FALSE;375;0;8712000
+376;1979;11;France;Anne-Marie David;Je Suis L'enfant Soleil;106;3;FALSE;376;1;67120000
+377;1979;12;Belgium;Micha Marah;Hey Nana;5;19;FALSE;377;0;11350000
+378;1979;13;Luxembourg;Jeane Manson;J'ai Déjà Vu Ça Dans Tes Yeux;44;13;FALSE;378;0;590667
+379;1979;14;Netherlands;Xandra;Colorado;51;12;FALSE;379;0;17000000
+380;1979;15;Sweden;Ted Gärdestad;Satellit;8;17;FALSE;380;0;9995000
+381;1979;16;Norway;Anita Skorgan;Oliver;57;11;FALSE;381;0;5258000
+382;1979;17;United Kingdom;Black Lace;Mary Ann;73;7;TRUE;382;0;66020000
+383;1979;18;Austria;Christina Simon;Heute In Jerusalem;5;18;FALSE;383;0;8773000
+384;1979;19;Spain;Betty Missiego;Su Canción;116;2;FALSE;384;1;46570000
+385;1980;1;Austria;Blue Danube;Du Bist Musik;64;8;FALSE;385;0;8773000
+386;1980;2;Turkey;Ajda Pekkan;Petr'oil;23;15;FALSE;386;1;79810000
+387;1980;3;Greece;Anna Vissi / Αννα Βίσση;Autostop / Ωτοστόπ;30;13;FALSE;387;0;10770000
+388;1980;4;Luxembourg;Sophie & Magaly;Le Papa Pingouin;56;9;FALSE;388;0;590667
+389;1980;5;Morocco;Samira Ben Saïd / سميرة سعيد;Bitakat Hob / بطاقة حب;7;18;FALSE;389;2;35740000
+390;1980;6;Italy;Alan Sorrenti;Non So Che Darei;87;6;FALSE;390;2;60590000
+391;1980;7;Denmark;Bamses Venner;Tænker Altid På Dig;25;14;FALSE;391;1;5770000
+392;1980;8;Sweden;Tomas Ledin;Just Nu;47;10;FALSE;392;0;9995000
+393;1980;9;Switzerland;Paola del Medico;Cinéma;104;4;FALSE;393;0;8420000
+394;1980;10;Finland;Vesa-Matti Loiri;Huilumies;6;19;FALSE;394;0;5503000
+395;1980;11;Norway;Sverre Kjellsberg & Mattis Hætta;Sámiid Ædnan;15;16;FALSE;395;0;5258000
+396;1980;12;Germany;Katja Ebstein;Theater;128;2;FALSE;396;2;82790000
+397;1980;13;United Kingdom;Prima Donna;Love Enough For Two;106;3;TRUE;397;13;66020000
+398;1980;14;Portugal;José Cid;Um Grande, Grande Amor;71;7;FALSE;398;31;10310000
+399;1980;15;Netherlands;Maggie MacNeal;Amsterdam;93;5;FALSE;399;0;17000000
+400;1980;16;France;Profil;He, He, M'sieurs Dames;45;11;FALSE;400;0;67120000
+401;1980;17;Ireland;Johnny Logan ;What's Another Year?;143;1;TRUE;401;0;4784000
+402;1980;18;Spain;Trigo limpio;Quédate Esta Noche;38;12;FALSE;402;3;46570000
+403;1980;19;Belgium;Telex;Eurovision;14;17;FALSE;403;0;11350000
+404;1981;1;Austria;Marty Brem;Wenn Du Da Bist;20;17;FALSE;404;0;8773000
+405;1981;2;Turkey;Modern folk trio & Aysegül;Dönme Dolap;9;19;FALSE;405;0;79810000
+406;1981;3;Germany;Lena Valaitis;Johnny Blue;132;2;FALSE;406;0;82790000
+407;1981;4;Luxembourg;Jean-Claude Pascal;C'est Peut-être Pas L'Amérique;41;12;FALSE;407;0;590667
+408;1981;5;Israel;Hakol Over Habibi / הכל עובר חביבי;Layla / הלילה;56;7;FALSE;408;1;8712000
+409;1981;6;Denmark;Debbie Cameron & Tommy Seebach;Krøller Eller Ej;41;11;FALSE;409;4;5770000
+410;1981;7;Yugoslavia;Seid Memic Vajta;Leila;35;15;FALSE;410;8;22183000
+411;1981;8;Finland;Riki Sorsa;Reggae Ok;27;16;FALSE;411;0;5503000
+412;1981;9;France;Jean Gabilou;Humanahum;125;3;FALSE;412;0;67120000
+413;1981;10;Spain;Bacchelli;Y Sólo Tú;38;14;FALSE;413;4;46570000
+414;1981;11;Netherlands;Linda Williams;Het Is Een Wonder;51;9;FALSE;414;3;17000000
+415;1981;12;Ireland;Sheeba;Horoscopes;105;5;TRUE;415;0;4784000
+416;1981;13;Norway;Finn Kalvik;Aldri I Livet;0;19;FALSE;416;0;5258000
+417;1981;14;United Kingdom;Bucks Fizz ;Making Your Mind Up;136;1;TRUE;417;3;66020000
+418;1981;15;Portugal;Carlos Paião;Play Back;9;18;FALSE;418;0;10310000
+419;1981;16;Belgium;Emly Starr;Samson;40;13;FALSE;419;7;11350000
+420;1981;17;Greece;Yiannis Dimitras / Γιάννης Δημητράς;Feggari Kalokerino / Φεγγάρι καλοκαιρινό;55;8;FALSE;420;4;10770000
+421;1981;18;Cyprus;Island;Monika / Μόνικα;69;6;FALSE;421;4;1180000
+422;1981;19;Switzerland;Peter, Sue & Marc;Io Senza Te;121;4;FALSE;422;3;8420000
+423;1981;20;Sweden;Björn Skifs;Fångad I En Dröm;50;10;FALSE;423;0;9995000
+424;1982;1;Portugal;Doce;Bem Bom;32;13;FALSE;424;0;10310000
+425;1982;2;Luxembourg;Svetlana;Cours Après Le Temps;78;6;FALSE;425;8;590667
+426;1982;3;Norway;Jahn Teigen & Anita Skorgan;Adieu;40;12;FALSE;426;1;5258000
+427;1982;4;United Kingdom;Bardo;One Step Further;76;7;TRUE;427;0;66020000
+428;1982;5;Turkey;Neco;Hani;20;15;FALSE;428;6;79810000
+429;1982;6;Finland;Kojo;Nuka Pommiin;0;17;FALSE;429;0;5503000
+430;1982;7;Switzerland;Arlette Zola;Amour On T'aime;97;3;FALSE;430;10;8420000
+431;1982;8;Cyprus;Anna Vissi / Αννα Βίσση;Mono I Agapi / Μόνο ή αγάπη;85;5;FALSE;431;21;1180000
+432;1982;9;Sweden;Chips;Dag Efter Dag;67;8;FALSE;432;0;9995000
+433;1982;10;Austria;Mess;Sonntag;57;9;FALSE;433;0;8773000
+434;1982;11;Belgium;Stella;Si Tu Aimes La Musique;96;4;FALSE;434;0;11350000
+435;1982;12;Spain;Lucía;El;52;10;FALSE;435;0;46570000
+436;1982;13;Denmark;Brixx;Video Video;5;17;FALSE;436;0;5770000
+437;1982;14;Yugoslavia;Aska;Halo Halo;21;14;FALSE;437;3;22183000
+438;1982;15;Israel;Avi Toledano / אבי טולדנו;Hora / הורה;100;2;FALSE;438;0;8712000
+439;1982;16;Netherlands;Bill van Dijk;Jij En Ik;8;16;FALSE;439;0;17000000
+440;1982;17;Ireland;The Duskeys;Here Today, Gone Tomorrow;49;11;TRUE;440;10;4784000
+441;1982;18;Germany;Nicole ;Ein Bisschen Frieden;161;1;FALSE;441;3;82790000
+442;1983;1;France;Guy Bonnet;Vivre;56;8;FALSE;442;13;67120000
+443;1983;2;Norway;Jahn Teigen;Do Re Mi;53;10;FALSE;443;0;5258000
+444;1983;3;United Kingdom;Sweet Dreams;I'm Never Giving Up;79;6;TRUE;444;0;66020000
+445;1983;4;Sweden;Carola Häggkvist;Främling;126;3;FALSE;445;3;9995000
+446;1983;5;Italy;Riccardo Fogli;Per Lucia;41;11;FALSE;446;0;60590000
+447;1983;6;Turkey;Çetin Alp & the Short wave;Opera;0;18;FALSE;447;3;79810000
+448;1983;7;Spain;Remedios Amaya;Quién Maneja Mi Barca;0;18;FALSE;448;0;46570000
+449;1983;8;Switzerland;Mariella Farré;Io Così Non Ci Sto;28;15;FALSE;449;5;8420000
+450;1983;9;Finland;Ami Aspelund;Fantasiaa;41;12;FALSE;450;2;5503000
+451;1983;10;Greece;Christie / Κρίστη Στασινοπούλου;Mou Les / Μου λες;32;14;FALSE;451;0;10770000
+452;1983;11;Netherlands;Bernadette;Sing Me A Song;66;7;FALSE;452;0;17000000
+453;1983;12;Yugoslavia;Danijel;Džuli;125;4;FALSE;453;1;22183000
+454;1983;13;Cyprus;Stavros & Constantina / Σταύρος & Κωνσταντίνα;I Agapi Akoma Zi / Η αγάπη ακόμα ζει;26;16;FALSE;454;6;1180000
+455;1983;14;Germany;Hoffmann & Hoffmann;Rücksicht;94;5;FALSE;455;1;82790000
+456;1983;15;Denmark;Gry Johansen;Kloden Drejer;16;17;FALSE;456;0;5770000
+457;1983;16;Israel;Ofra Haza / עפרה חזה;Hi / חי;136;2;FALSE;457;0;8712000
+458;1983;17;Portugal;Armando Gama;Esta Balada Que Te Dou;33;13;FALSE;458;0;10310000
+459;1983;18;Austria;Westend;Hurricane;53;9;FALSE;459;10;8773000
+460;1983;19;Belgium;Pas de deux;Rendez-vous;13;18;FALSE;460;0;11350000
+461;1983;20;Luxembourg;Corinne Hermès ;Si La Vie Est Cadeau;142;1;FALSE;461;4;590667
+462;1984;1;Sweden;Herrey's ;Diggi-loo Diggi-ley;145;1;FALSE;462;0;9995000
+463;1984;2;Luxembourg;Sophie Carle;100% d'Amour;39;10;FALSE;463;9;590667
+464;1984;3;France;Annick Thoumazeau;Autant D'amoureux Que D'etoiles;61;8;FALSE;464;6;67120000
+465;1984;4;Spain;Bravo;Lady Lady;106;3;FALSE;465;1;46570000
+466;1984;5;Norway;Dollie de Luxe;Lenge Leve Livet;29;17;FALSE;466;0;5258000
+467;1984;6;United Kingdom;Belle & the Devotions;Love Games;63;7;TRUE;467;28;66020000
+468;1984;7;Cyprus;Andy Paul;Anna Maria Lena;31;15;FALSE;468;4;1180000
+469;1984;8;Belgium;Jacques Zegers;Avanti La Vie;70;5;FALSE;469;0;11350000
+470;1984;9;Ireland;Linda Martin;Terminal 3;137;2;TRUE;470;0;4784000
+471;1984;10;Denmark;Hot Eyes;Det' Lige Det;101;4;FALSE;471;1;5770000
+472;1984;11;Netherlands;Maribelle;Ik Hou Van Jou;34;13;FALSE;472;6;17000000
+473;1984;12;Yugoslavia;Vlado & Isolda;Ciao Amore;26;18;FALSE;473;16;22183000
+474;1984;13;Austria;Anita;Einfach Weg;5;19;FALSE;474;0;8773000
+475;1984;14;Germany;Mary Roos;Aufrecht Geh'n;34;14;FALSE;475;0;82790000
+476;1984;15;Turkey;Beş Yıl Önce, On Yıl Sonra;Halay;37;12;FALSE;476;8;79810000
+477;1984;16;Finland;Kirka;Hengaillaan;46;9;FALSE;477;0;5503000
+478;1984;17;Switzerland;Rainy Day;Welche Farbe Hat Der Sonnenschein;30;16;FALSE;478;0;8420000
+479;1984;18;Italy;Alice & Battiato;I Treni Di Tozeur;70;6;FALSE;479;0;60590000
+480;1984;19;Portugal;Maria Guinot;Silêncio E Tanta Gente;38;11;FALSE;480;2;10310000
+481;1985;1;Ireland;Maria Christian;Wait Until The Weekend Comes;91;6;TRUE;481;0;4784000
+482;1985;2;Finland;Sonja Lumme;Eläköön Elämä;58;9;FALSE;482;0;5503000
+483;1985;3;Cyprus;Lia Vissi / Λία Βίσση;To Katalava Arga / Το κατάλαβα αργά;15;17;FALSE;483;2;1180000
+484;1985;4;Denmark;Hot Eyes;Sku' Du Spør Fra No'en;41;11;FALSE;484;0;5770000
+485;1985;5;Spain;Paloma San Basilio;La Fiesta Terminó;36;15;FALSE;485;6;46570000
+486;1985;6;France;Roger Bens;Femme Dans Ses Rêves Aussi;56;10;FALSE;486;5;67120000
+487;1985;7;Turkey;MFÖ;Didai Didai Dai;36;14;FALSE;487;8;79810000
+488;1985;8;Belgium;Linda Lepomme;Laat Me Nu Gaan;7;19;FALSE;488;2;11350000
+489;1985;9;Portugal;Adelaide Ferreira;Penso Em Ti, Eu Sei;9;18;FALSE;489;1;10310000
+490;1985;10;Germany;Wind;Für Alle;105;2;FALSE;490;0;82790000
+491;1985;11;Israel;Izhar Cohen / יזהר כהן;Olé Olé / עולה עולה;93;5;FALSE;491;0;8712000
+492;1985;12;Italy;Al Bano & Romina Power;Magic, Oh Magic;78;7;FALSE;492;2;60590000
+493;1985;13;Norway;Bobbysocks ;La Det Swinge;123;1;FALSE;493;0;5258000
+494;1985;14;United Kingdom;Vikki;Love Is;100;4;TRUE;494;2;66020000
+495;1985;15;Switzerland;Mariella Farré & Pino Gasparini;Piano, Piano;39;12;FALSE;495;10;8420000
+496;1985;16;Sweden;Kikki Danielsson;Bra Vibrationer;103;3;FALSE;496;4;9995000
+497;1985;17;Austria;Gary Lux;Kinder Dieser Welt;60;8;FALSE;497;0;8773000
+498;1985;18;Luxembourg;Ireen Sheer, Margo, Franck Olivier, Chris Roberts, Malcolm Roberts, Diane Solomon;Children, Kinder, Enfants;37;13;FALSE;498;3;590667
+499;1985;19;Greece;Takis Biniaris / Τάκης Μπινιάρης;Miazoume / Μοιάζουμε;15;16;FALSE;499;0;10770000
+500;1986;1;Luxembourg;Sherisse Laurence;L'amour De Ma Vie;117;3;FALSE;500;11;590667
+501;1986;2;Yugoslavia;Doris Dragovic;Zeljo Moja;49;11;FALSE;501;1;22183000
+502;1986;3;France;Cocktail Chic;Européennes;13;17;FALSE;502;7;67120000
+503;1986;4;Norway;Ketil Stokkan;Romeo;44;12;FALSE;503;2;5258000
+504;1986;5;United Kingdom;Ryder;Runner In The Night;72;7;TRUE;504;1;66020000
+505;1986;6;Iceland;Icy;Gledibankinn;19;16;FALSE;505;0;338349
+506;1986;7;Netherlands;Frizzle Sizzle;Alles Heeft Ritme;40;13;FALSE;506;0;17000000
+507;1986;8;Turkey;Klips Ve Onlar;Halley;53;9;FALSE;507;3;79810000
+508;1986;9;Spain;Cadillac;Valentino;51;10;FALSE;508;1;46570000
+509;1986;10;Switzerland;Daniela Simons;Pas Pour Moi;140;2;FALSE;509;8;8420000
+510;1986;11;Israel;Moti Giladi & Sarai Tzuriel / מוטי גילעדי ושרי צוריאל;Yavoh Yom / יבוא יום;7;19;FALSE;510;3;8712000
+511;1986;12;Ireland;Luv Bug;You Can Count On Me;96;4;TRUE;511;2;4784000
+512;1986;13;Belgium;Sandra Kim ;J'aime La Vie;176;1;FALSE;512;33;11350000
+513;1986;14;Germany;Ingrid Peters;Über Die Brücke Geh'n;62;8;FALSE;513;1;82790000
+514;1986;15;Cyprus;Elpida / Ελπίδα;Tora Zo / τώρα ζω;4;20;FALSE;514;0;1180000
+515;1986;16;Austria;Timna Brauer;Die Zeit Ist Einsam;12;18;FALSE;515;0;8773000
+516;1986;17;Sweden;Lasse Holm & Monica Törnell;E' De' Det Här Du Kallar Kärlek?;78;5;FALSE;516;10;9995000
+517;1986;18;Denmark;Trax;Du Er Fuld Af Løgn;77;6;FALSE;517;0;5770000
+518;1986;19;Finland;Kari Kuivalainen;Paiva Kahden Ihmisen;22;15;FALSE;518;0;5503000
+519;1986;20;Portugal;Dora;Não Sejas Mau P'ra Mim;28;14;FALSE;519;2;10310000
+520;1987;1;Norway;Kate Gulbrandsen;Mitt Liv;65;9;FALSE;520;0;5258000
+521;1987;2;Israel;Datner & Kushnir / הבטלנים;Shir Habatlanim / שיר הבטלנים;73;8;FALSE;521;0;8712000
+522;1987;3;Austria;Gary Lux;Nur Noch Gefühl;8;20;FALSE;522;1;8773000
+523;1987;4;Iceland;Halla Margarét;Hægt Og Hljótt;28;16;FALSE;523;0;338349
+524;1987;5;Belgium;Liliane Saint-Pierre;Soldiers Of Love;56;11;FALSE;524;15;11350000
+525;1987;6;Sweden;Lotta Engberg;Boogaloo;50;12;FALSE;525;0;9995000
+526;1987;7;Italy;Umberto Tozzi & Raf;Gente Di Mare;103;3;FALSE;526;0;60590000
+527;1987;8;Portugal;Nevada;Neste Barco A Vela;15;18;FALSE;527;0;10310000
+528;1987;9;Spain;Patricia Kraus;No Estás Solo;10;19;FALSE;528;3;46570000
+529;1987;10;Turkey;Seyyal Taner & Grup Lokomotif;Sarkim Sevgi Üstüne;0;21;FALSE;529;12;79810000
+530;1987;11;Greece;Bang;Stop / Στοπ;64;10;FALSE;530;0;10770000
+531;1987;12;Netherlands;Marcha;Rechtop In De Wind;83;5;FALSE;531;0;17000000
+532;1987;13;Luxembourg;Plastic Bertrand;Amour, Amour;4;21;FALSE;532;13;590667
+533;1987;14;United Kingdom;Rikki;Only The Light;47;13;TRUE;533;0;66020000
+534;1987;15;France;Christine Minier;Les Mots D'amour N'ont Pas De Dimanche;44;14;FALSE;534;11;67120000
+535;1987;16;Germany;Wind;Lass Die Sonne In Dein Herz;141;2;FALSE;535;1;82790000
+536;1987;17;Cyprus;Alexia / Αλέξια;Aspro Mavro / Aσπρο μαύρο;80;7;FALSE;536;0;1180000
+537;1987;18;Finland;Vicky Rosti;Sata Salamaa;32;15;FALSE;537;8;5503000
+538;1987;19;Denmark;Anne-Cathrine Herdorf & Bandjo;En Lille Melodi;83;6;FALSE;538;1;5770000
+539;1987;20;Ireland;Johnny Logan ;Hold Me Now;172;1;TRUE;539;4;4784000
+540;1987;21;Yugoslavia;Novi Fosili;Ja Sam Za Ples;92;4;FALSE;540;0;22183000
+541;1987;22;Switzerland;Carol Rich;Moitié-Moitié;26;17;FALSE;541;0;8420000
+542;1988;1;Iceland;Beathoven;Sókrates;20;16;FALSE;542;0;338349
+543;1988;2;Sweden;Tommy Körberg;Stad I Ljus;52;12;FALSE;543;0;9995000
+544;1988;3;Finland;Boulevard;Nauravat Silmat Muistetaan;3;20;FALSE;544;0;5503000
+545;1988;4;United Kingdom;Scott Fitzgerald;Go;136;2;TRUE;545;5;66020000
+546;1988;5;Turkey;MFÖ;Sufi;37;15;FALSE;546;5;79810000
+547;1988;6;Spain;La Década;Made In Spain (La Chica Que Yo Quiero);58;11;FALSE;547;2;46570000
+548;1988;7;Netherlands;Gerard Joling;Shangri-la;70;9;FALSE;548;4;17000000
+549;1988;8;Israel;Yardena Arazi / ירדנה ארזי;Ben-adam / בן אדם;85;7;FALSE;549;1;8712000
+550;1988;9;Switzerland;Céline Dion ;Ne Partez Pas Sans Moi;137;1;FALSE;550;2;8420000
+551;1988;10;Ireland;Jump the Gun;Take Him Home;79;8;TRUE;551;0;4784000
+552;1988;11;Germany;Maxi & Chris Garden;Lied Fur Einen Freund;48;14;FALSE;552;0;82790000
+553;1988;12;Austria;Wilfried;Lisa, Mona Lisa;0;20;FALSE;553;1;8773000
+554;1988;13;Denmark;Hot Eyes;Ka' Du Se Hva' Jeg Sa';92;3;FALSE;554;0;5770000
+555;1988;14;Greece;Afroditi Fryda / Αφροδίτη Φρυδά;Kloun / κλόουν;10;17;FALSE;555;0;10770000
+556;1988;15;Norway;Karoline Krüger;For Vår Jord;88;5;FALSE;556;0;5258000
+557;1988;16;Belgium;Reynaert;Laissez Briller Le Soleil;5;18;FALSE;557;0;11350000
+558;1988;17;Luxembourg;Lara Fabian;Croire;90;4;FALSE;558;1;590667
+559;1988;18;Italy;Luca Barbarossa;Ti Scrivo;52;13;FALSE;559;1;60590000
+560;1988;19;France;Gérard Lenorman;Chanteur De Charme;64;10;FALSE;560;2;67120000
+561;1988;20;Portugal;Dora;Voltarei;5;19;FALSE;561;4;10310000
+562;1988;21;Yugoslavia;Srebrna Krila;Mangup;87;6;FALSE;562;0;22183000
+563;1989;1;Italy;Anna Oxa & Fausto Leali;Avrei Voluto;56;10;FALSE;563;2;60590000
+564;1989;2;Israel;Gili & Galit / גילי וגלית;Derech Ha'melech / דרך המלך;50;12;FALSE;564;4;8712000
+565;1989;3;Ireland;Kiev Connolly & the Missing Passengers;The Real Me;21;18;TRUE;565;0;4784000
+566;1989;4;Netherlands;Justine Pelmelay;Blijf Zoals Je Bent;45;15;FALSE;566;5;17000000
+567;1989;5;Turkey;Pan;Bana Bana;5;21;FALSE;567;6;79810000
+568;1989;6;Belgium;Ingeborg;Door De Wind;13;19;FALSE;568;0;11350000
+569;1989;7;United Kingdom;Live Report;Why Do I Always Get It Wrong?;130;2;TRUE;569;0;66020000
+570;1989;8;Norway;Britt Synnøve Johansen;Venners Næhet;30;17;FALSE;570;0;5258000
+571;1989;9;Portugal;Da Vinci;Conquistador;39;16;FALSE;571;2;10310000
+572;1989;10;Sweden;Tommy Nilsson;En Dag;110;4;FALSE;572;0;9995000
+573;1989;11;Luxembourg;Park Café;Monsieur;8;20;FALSE;573;1;590667
+574;1989;12;Denmark;Birthe Kjær;Vi Maler Byen Rød;111;3;FALSE;574;0;5770000
+575;1989;13;Austria;Thomas Forstner;Nur Ein Lied;97;5;FALSE;575;1;8773000
+576;1989;14;Finland;Anneli Saaristo;La Dolce Vita;76;7;FALSE;576;0;5503000
+577;1989;15;France;Nathalie Pâque;J'ai Volé La Vie;60;8;FALSE;577;1;67120000
+578;1989;16;Spain;Nina;Nacida Para Amar;88;6;FALSE;578;12;46570000
+579;1989;17;Cyprus;Fani Polyméri & Yiánnis Savvidákis / Γ.Σαββιδάκης & Φ.Πολυμέρη;Apopse As Vrethoume / Απόψε ας βρεθούμε;51;11;FALSE;579;0;1180000
+580;1989;18;Switzerland;Furbaz;Viver Senza Tei;47;13;FALSE;580;0;8420000
+581;1989;19;Greece;Mariana Efstratiou / Μαριάνα Ευστρατίου;To Diko Sou Asteri / Το δικό σου αστέρι;56;9;FALSE;581;0;10770000
+582;1989;20;Iceland;Daníel;Það Sem Enginn Sér;0;21;FALSE;582;0;338349
+583;1989;21;Germany;Nino de Angelo;Flieger;46;14;FALSE;583;0;82790000
+584;1989;22;Yugoslavia;Riva ;Rock Me;137;1;FALSE;584;0;22183000
+585;1990;1;Spain;Azùcar Moreno;Bandido;96;5;FALSE;585;1;46570000
+586;1990;2;Greece;Christos Callow & Wave / Χρήστος Κάλοου & Wave;Horis Skopo / Χωρίς Σκοπό;11;19;FALSE;586;3;10770000
+587;1990;3;Belgium;Philippe Lafontaine;Macédomienne;46;12;FALSE;587;3;11350000
+588;1990;4;Turkey;Kayahan Acar;Gözlerinin Hapsindeyim;21;17;FALSE;588;0;79810000
+589;1990;5;Netherlands;Maywood;Ik Wil Alles Met Je Delen;25;15;FALSE;589;2;17000000
+590;1990;6;Luxembourg;Céline Carzo;Quand Je Te Rêve;38;13;FALSE;590;1;590667
+591;1990;7;United Kingdom;Emma;Give A Little Love Back To The World;87;6;TRUE;591;10;66020000
+592;1990;8;Iceland;Stjórnin;Eitt Lag Enn;124;4;FALSE;592;0;338349
+593;1990;9;Norway;Ketil Stokkan;Brandenburger Tor;8;22;FALSE;593;0;5258000
+594;1990;10;Israel;Rita / ריטה;Shara Ba'rechovot / שרה ברחובות;16;18;FALSE;594;2;8712000
+595;1990;11;Denmark;Lonnie Devantier;Hallo Hallo;64;8;FALSE;595;0;5770000
+596;1990;12;Switzerland;Egon Egemann;Musik Klingt In Die Welt Hinaus;51;11;FALSE;596;1;8420000
+597;1990;13;Germany;Chris Kempers & Daniel Kovac;Frei Zu Leben;60;9;FALSE;597;1;82790000
+598;1990;14;France;Joëlle Ursull;White And Black Blues;132;2;FALSE;598;2;67120000
+599;1990;15;Yugoslavia;Tajči;Hajde Da Ludujemo;81;7;FALSE;599;6;22183000
+600;1990;16;Portugal;Nucha;Há Sempre Alguém;9;20;FALSE;600;1;10310000
+601;1990;17;Ireland;Liam Reilly;Somewhere In Europe;132;3;TRUE;601;0;4784000
+602;1990;18;Sweden;Edin-Ådahl;Som En Vind;24;16;FALSE;602;0;9995000
+603;1990;19;Italy;Toto Cotugno ;Insieme 1992;149;1;FALSE;603;1;60590000
+604;1990;20;Austria;Simone;Keine Mauern Mehr;58;10;FALSE;604;0;8773000
+605;1990;21;Cyprus;Anastasiou / Αναστάζιο;Milas Poli / Μιλάς πολύ;36;14;FALSE;605;1;1180000
+606;1990;22;Finland;Beat;Fri?;8;21;FALSE;606;0;5503000
+607;1991;1;Yugoslavia;Baby Doll;Brazil;1;21;FALSE;607;0;22183000
+608;1991;2;Iceland;Stefán & Eyfi;Nina;26;15;FALSE;608;0;338349
+609;1991;3;Malta;Paul Giordimaina & Georgina;Could It Be;106;6;TRUE;609;3;460297
+610;1991;4;Greece;Sofia Vossou / Σοφία Βόσσου;Anixi / Άνοιξη;36;13;FALSE;610;1;10770000
+611;1991;5;Switzerland;Sandra Simò;Canzone Per Te;118;5;FALSE;611;2;8420000
+612;1991;6;Austria;Thomas Forstner;Venedig Im Regen;0;21;FALSE;612;0;8773000
+613;1991;7;Luxembourg;Sarah Bray;Un Baiser Volé;29;14;FALSE;613;3;590667
+614;1991;8;Sweden;Carola ;Fångad Av En Stormvind;146;1;FALSE;614;1;9995000
+615;1991;9;France;Amina;Le Dernier Qui A Parlé;146;2;FALSE;615;0;67120000
+616;1991;10;Turkey;Izel Çeliköz, Reyhan Soykarçi and Can Ugurluér;Iki Dakika;44;12;FALSE;616;4;79810000
+617;1991;11;Ireland;Kim Jackson;Could It Be That I'm In Love;47;11;TRUE;617;5;4784000
+618;1991;12;Portugal;Dulce;Lusitana Paixao;62;8;FALSE;618;2;10310000
+619;1991;13;Denmark;Anders Frandsen;Lige Der Hvor Hjertet Slår;8;19;FALSE;619;4;5770000
+620;1991;14;Norway;Just 4 Fun;Mrs Thompson;14;17;FALSE;620;0;5258000
+621;1991;15;Israel;Duo Datz / אורנה ומשה דץ;Kann / כאן;139;3;FALSE;621;0;8712000
+622;1991;16;Finland;Kaija;Hullu Yö;6;20;FALSE;622;2;5503000
+623;1991;17;Germany;Atlantis 2000;Dieser Traum Darf Niemals Sterben;10;18;FALSE;623;2;82790000
+624;1991;18;Belgium;Clouseau;Geef Het Op;23;16;FALSE;624;0;11350000
+625;1991;19;Spain;Sergio Dalma;Bailar Pegados;119;4;FALSE;625;0;46570000
+626;1991;20;United Kingdom;Samantha Janus;A Message To Your Heart;47;10;TRUE;626;0;66020000
+627;1991;21;Cyprus;Elena Patroklou / Ελενα Πατρόκλου;SOS;60;9;FALSE;627;0;1180000
+628;1991;22;Italy;Peppino di Capri;Comme E Doce 'o Mare;89;7;FALSE;628;3;60590000
+629;1992;1;Spain;Serafin;Todo Esto Es La Música;37;14;FALSE;629;2;46570000
+630;1992;2;Belgium;Morgane;Nous On Veut Des Violons;11;20;FALSE;630;0;11350000
+631;1992;3;Israel;Dafna / דפנה דקל;Ze Rak Sport / זה רק ספורט;85;6;FALSE;631;0;8712000
+632;1992;4;Turkey;Aylin Vatankos;Yaz Bitti;17;19;FALSE;632;2;79810000
+633;1992;5;Greece;Cleopatra / Κλεοπάτρα;Olou Tou Kosmou I Elpida / Όλου του κόσμου η ελπίδα;94;5;FALSE;633;4;10770000
+634;1992;6;France;Kali;Monté La Riviè;73;8;FALSE;634;1;67120000
+635;1992;7;Sweden;Christer Björkman;I Morgon Är En Annan Dag;9;22;FALSE;635;0;9995000
+636;1992;8;Portugal;Diná;Amor D'agua Fresca;26;17;FALSE;636;8;10310000
+637;1992;9;Cyprus;Evridiki / Ευριδίκη;Tairiazoume / Ταιριάζουμε;57;11;FALSE;637;0;1180000
+638;1992;10;Malta;Mary Spiteri;Little Child;123;3;TRUE;638;0;460297
+639;1992;11;Iceland;Heart 2 Heart;Nei Eda Ja;80;7;FALSE;639;1;338349
+640;1992;12;Finland;Pave;Yamma Yamma;4;23;FALSE;640;0;5503000
+641;1992;13;Switzerland;Daisy Auvray;Mister Music Man;32;15;FALSE;641;0;8420000
+642;1992;14;Luxembourg;Marion Welter;Sou Fräi;10;21;FALSE;642;0;590667
+643;1992;15;Austria;Tony Wegas;Zusammen Geh'n;63;10;FALSE;643;4;8773000
+644;1992;16;United Kingdom;Michael Ball;One Step Out Of Time;139;2;TRUE;644;4;66020000
+645;1992;17;Ireland;Linda Martin ;Why Me?;155;1;TRUE;645;2;4784000
+646;1992;18;Denmark;Lotte Nilsson & Kenny Lübcke;Alt Det Som Ingen Ser;47;12;FALSE;646;3;5770000
+647;1992;19;Italy;Mia Martini;Rapsodia;111;4;FALSE;647;4;60590000
+648;1992;20;Yugoslavia;Extra Nena;Ljubim Te Pesmama;44;13;FALSE;648;3;22183000
+649;1992;21;Norway;Merethe Trøan;Visjoner;23;18;FALSE;649;7;5258000
+650;1992;22;Germany;Wind;Traüme Sind Für Alle Da;27;16;FALSE;650;0;82790000
+651;1992;23;Netherlands;Humphrey Campbell;Wijs Me De Weg;67;9;FALSE;651;1;17000000
+652;1993;1;Italy;Enrico Ruggeri;Sole d'Europa;45;12;FALSE;652;0;60590000
+653;1993;2;Turkey;Burak Aydos & Serter & Baybora Öztürk;Esmer Yarim;10;21;FALSE;653;2;79810000
+654;1993;3;Germany;Münchener Freiheit;Viel Zu Weit;18;18;FALSE;654;0;82790000
+655;1993;4;Switzerland;Annie Cotton;Moi, Tout Simplement;148;3;FALSE;655;0;8420000
+656;1993;5;Denmark;Tommy Seebach Band;Under Stjernerne På Himlen;9;22;FALSE;656;0;5770000
+657;1993;6;Greece;Keti Garbi / Καίτη Γαρμπή;Ellanda, Hora Tou Fotos / Ελλάδα, χώρα του φωτός;64;9;FALSE;657;0;10770000
+658;1993;7;Belgium;Barbara;Iemand Als Jij;3;25;FALSE;658;5;11350000
+659;1993;8;Malta;William Mangion;This Time;69;8;TRUE;659;7;460297
+660;1993;9;Iceland;Inga;Pa Veistu Svardid;42;13;FALSE;660;0;338349
+661;1993;10;Austria;Tony Wegas;Maria Magdalena;32;14;FALSE;661;2;8773000
+662;1993;11;Portugal;Anabela;A Cidade Ate Ser Dia;60;10;FALSE;662;0;10310000
+663;1993;12;France;Patrick Fiori;Mama Corsica;121;4;FALSE;663;3;67120000
+664;1993;13;Sweden;Arvingarna;Eloise;89;7;FALSE;664;3;9995000
+665;1993;14;Ireland;Niamh Kavanagh ;In Your Eyes;187;1;TRUE;665;4;4784000
+666;1993;15;Luxembourg;Modern Times;Donne-moi Une Chance;11;20;FALSE;666;0;590667
+667;1993;16;Slovenia;1X Band;Tih Deževen Dan;9;23;FALSE;667;0;1990000
+668;1993;17;Finland;Katri Helena;Tule Luo;20;17;FALSE;668;0;5503000
+669;1993;18;Bosnia-Herzegovina;Fazla;Sva Bol Svijeta;27;16;FALSE;669;1;3880000
+670;1993;19;United Kingdom;Sonia;Better The Devil You Know;164;2;TRUE;670;11;66020000
+671;1993;20;Netherlands;Ruth Jacott;Vrede;92;6;FALSE;671;0;17000000
+672;1993;21;Croatia;Put;Don't Ever Cry;31;15;FALSE;672;4;4480000
+673;1993;22;Spain;Eva Santamaria;Hombres;58;11;FALSE;673;1;46570000
+674;1993;23;Cyprus;Kyriakos Zymboulakis & Demos van Beke / Κ.Ζυμπουλάκης & Δ.Van Beke;Mi Stamatas / Mην σταματάς;17;19;FALSE;674;0;1180000
+675;1993;24;Israel;Lahakat Shiru / להקת שירו;Shiru / שירו;4;24;FALSE;675;1;8712000
+676;1993;25;Norway;Silje Vige;Alle Mine Tankar;120;5;FALSE;676;0;5258000
+677;1994;1;Sweden;Marie Bergman & Roger Pontare;Stjärnorna;48;13;FALSE;677;3;9995000
+678;1994;2;Finland;CatCat;Bye Bye Baby;11;22;FALSE;678;5;5503000
+679;1994;3;Ireland;Paul Harrington & Charlie McGettigan ;Rock 'n' Roll Kids;226;1;TRUE;679;1;4784000
+680;1994;4;Cyprus;Evridiki / Ευριδίκη;Eimai Anthropos Ki Ego / Είμαι Άνθρωπος Κι Εγώ;51;11;FALSE;680;2;1180000
+681;1994;5;Iceland;Sigga;Nætur;49;12;FALSE;681;0;338349
+682;1994;6;United Kingdom;Frances Ruffelle;We Will Be Free (lonely Symphony);63;10;TRUE;682;1;66020000
+683;1994;7;Croatia;Tony Cetinski;Nek 'ti Bude Ljubav Sva;27;16;FALSE;683;8;4480000
+684;1994;8;Portugal;Sara Tavares;Chamar A Musica;73;8;FALSE;684;3;10310000
+685;1994;9;Switzerland;Duilio;Sto Pregando;15;20;FALSE;685;2;8420000
+686;1994;10;Estonia;Silvi Vrait;Nagu Merelaine;2;24;FALSE;686;0;1316000
+687;1994;11;Romania;Dan Bittman;Dincolo De Nori;14;21;FALSE;687;1;19640000
+688;1994;12;Malta;Moira & Chris;More Than Love;97;5;TRUE;688;5;460297
+689;1994;13;Netherlands;Willeke Alberti;Waar Is De Zon?;4;23;FALSE;689;0;17000000
+690;1994;14;Germany;Mekado;Wir Geben 'ne Party;128;3;FALSE;690;0;82790000
+691;1994;15;Slovakia;Martin Durinda & Tublatanka;Nekonečná Pieseň;15;19;FALSE;691;4;5435000
+692;1994;16;Lithuania;Ovidijus Vyshniauskas;Lopišiné Mylimaj;0;24;FALSE;692;1;2848000
+693;1994;17;Norway;Elisabeth Andreasson & Jan Werner Danielsen;Duett;76;6;FALSE;693;0;5258000
+694;1994;18;Bosnia-Herzegovina;Alma & Dejan;Ostani Kraj Mene;39;15;FALSE;694;3;3880000
+695;1994;19;Greece;Costas Bigalis & the Sea lovers / Κώστας Μπίγαλης & Sea lovers;To Trehantiri / To Τρεχαντήρι;44;14;FALSE;695;0;10770000
+696;1994;20;Austria;Petra Frey;Für Den Frieden Der Welt;19;17;FALSE;696;2;8773000
+697;1994;21;Spain;Alejandro Abad;Ella No Es Ella;17;18;FALSE;697;0;46570000
+698;1994;22;Hungary;Friederika;Kinek Mondjam El Vétkeimet;122;4;FALSE;698;1;9781000
+699;1994;23;Russia;Youddiph / Юдифь;Vechni Stranik / Вечный странник;70;9;FALSE;699;0;144500000
+700;1994;24;Poland;Edyta Górniak;To Nie Ja;166;2;FALSE;700;2;37970000
+701;1994;25;France;Nina Morato;Je Suis Un Vrai Garçon;74;7;FALSE;701;3;67120000
+702;1995;1;Poland;Justyna Steczkowska;Sama;15;18;FALSE;702;1;37970000
+703;1995;2;Ireland;Eddie Friel;Dreamin';44;14;TRUE;703;1;4784000
+704;1995;3;Germany;Stone & Stone;Verliebt In Dich;1;23;FALSE;704;10;82790000
+705;1995;4;Bosnia-Herzegovina;Davorin Popović;Dvadeset I Prvi Viijek;14;19;FALSE;705;2;3880000
+706;1995;5;Norway;Secret Garden ;Nocturne;148;1;FALSE;706;0;5258000
+707;1995;6;Russia;Philip Kirkorov / Филипп Киркоров;Kolybelnaya Dlya Vulkana / Кольібельная для вулкана;17;17;FALSE;707;0;144500000
+708;1995;7;Iceland;Bo Halldórsson;Núna;31;15;FALSE;708;11;338349
+709;1995;8;Austria;Stella Jones;Die Welt Dreht Sich Verkehrt;67;13;FALSE;709;0;8773000
+710;1995;9;Spain;Anabel Conde;Vuelve Conmigo;119;2;FALSE;710;6;46570000
+711;1995;10;Turkey;Arzu Ece;Sev;21;16;FALSE;711;8;79810000
+712;1995;11;Croatia;Magazin & Lidija;Nostalgija;91;6;FALSE;712;0;4480000
+713;1995;12;France;Nathalie Santamaria;Il Me Donne Rendez-vous;94;4;FALSE;713;0;67120000
+714;1995;13;Hungary;Czaba Szigeti;Új Név A Régi Ház Falán;3;22;FALSE;714;0;9781000
+715;1995;14;Belgium;Frédéric Etherlinck;La Voix Est Libre;8;20;FALSE;715;0;11350000
+716;1995;15;United Kingdom;Love City Groove;Love City Groove;76;11;TRUE;716;13;66020000
+717;1995;16;Portugal;Tó Cruz;Baunilha E Chocolate;5;21;FALSE;717;5;10310000
+718;1995;17;Cyprus;Alexandros Panayi / Aλεξ. Παναγής;Sti Fotia / Στην φωτιά;79;9;FALSE;718;1;1180000
+719;1995;18;Sweden;Jan Johansen;Se På Mej;100;3;FALSE;719;1;9995000
+720;1995;19;Denmark;Aud Wilken;Fra Mols Til Skagen;92;5;FALSE;720;0;5770000
+721;1995;20;Slovenia;Darja Švajger;Prisluhni Mi;84;7;FALSE;721;3;1990000
+722;1995;21;Israel;Liora / ליאורה;Amen / אמן;81;8;FALSE;722;2;8712000
+723;1995;22;Malta;Mike Spiteri;Keep Me In Mind;76;10;TRUE;723;4;460297
+724;1995;23;Greece;Elina Constantopoulou / Ελίνα Κωνσταντοπούλου;Pia Prosefhi / Ποια προσευχή;68;12;FALSE;724;0;10770000
+725;1996;1;Turkey;Sebnem Paker;Besinci Mevsim;57;12;FALSE;725;0;79810000
+726;1996;2;United Kingdom;Gina G;Ooh Aah ... Just A Little Bit;77;8;TRUE;726;7;66020000
+727;1996;3;Spain;Antonio Carbonell;Ay! Que Deseo!;17;20;FALSE;727;1;46570000
+728;1996;4;Portugal;Lúcia Moniz;O Meu Caração Nao Tem Cor;92;6;FALSE;728;0;10310000
+729;1996;5;Cyprus;Constantinos / Κωνσταντίνος;Mono Gia Mas / Μόνο για μας;72;9;FALSE;729;1;1180000
+730;1996;6;Malta;Miriam Christine;In A Woman's Heart;68;10;TRUE;730;2;460297
+731;1996;7;Croatia;Maja Blagdan;Sveta Ljubav;98;4;FALSE;731;9;4480000
+732;1996;8;Austria;George Nussbaumer;Weil's Dr Guat Got;68;11;FALSE;732;0;8773000
+733;1996;9;Switzerland;Kathy Leander;Mon Cœur L'aime;22;17;FALSE;733;5;8420000
+734;1996;10;Greece;Mariana Efstratiou / Μαριάνα Ευστρατίου;Emis Forame Ton Himona Anixatika / Εμείς φοράμε το χειμώνα ανοιξιάτικα;36;14;FALSE;734;1;10770000
+735;1996;11;Estonia;Ivo Linna & Maarja-Liis Ilus;Kaelakee Hääl;94;5;FALSE;735;0;1316000
+736;1996;12;Norway;Elisabeth Andreasson;I Evighet;114;2;FALSE;736;1;5258000
+737;1996;13;France;Dan Ar Braz and L'Héritage des Celtes;Diwanit Bugale;18;19;FALSE;737;0;67120000
+738;1996;14;Slovenia;Regina;Dan Najlepših Sanj;16;21;FALSE;738;10;1990000
+739;1996;15;Netherlands;Maxine & Franklin Brown;De Eerste Keer;78;7;FALSE;739;2;17000000
+740;1996;16;Belgium;Lisa del Bo;Liefde Is Een Kaartspel;22;16;FALSE;740;0;11350000
+741;1996;17;Ireland;Eimear Quinn ;The Voice;162;1;TRUE;741;0;4784000
+742;1996;18;Finland;Jasmine;Niin Kaunis On Taivas;9;23;FALSE;742;2;5503000
+743;1996;19;Iceland;Anna Mjöll;Sjúbidu;51;13;FALSE;743;0;338349
+744;1996;20;Poland;Kasia Kowalska;Chce Znac Swoj Grzech;31;15;FALSE;744;1;37970000
+745;1996;21;Bosnia-Herzegovina;Amila Glamočak;Za Našu Ljubav;13;22;FALSE;745;5;3880000
+746;1996;22;Slovakia;Marcel Palonder;Kým Nás Máš;19;18;FALSE;746;5;5435000
+747;1996;23;Sweden;One More Time;Den Vilda;100;3;FALSE;747;0;9995000
+748;1997;1;Cyprus;Chara & Andreas Konstantinou / Χαρά & Ανδρέας Κωνσταντίνου;Mana Mou / Μάνα μου;98;5;FALSE;748;0;1180000
+749;1997;2;Turkey;Sebnem Paker& Etnic grup;Dinle;121;3;FALSE;749;12;79810000
+750;1997;3;Norway;Tor Endresen;San Francisco;0;23;FALSE;750;12;5258000
+751;1997;4;Austria;Bettina Soriat;One Step;12;21;FALSE;751;0;8773000
+752;1997;5;Ireland;Marc Roberts;Mysterious Woman;157;2;TRUE;752;0;4784000
+753;1997;6;Slovenia;Tanja Ribič;Zbudi Se;60;10;FALSE;753;1;1990000
+754;1997;7;Switzerland;Barbara Berta;Dentro Di Me;5;23;FALSE;754;0;8420000
+755;1997;8;Netherlands;Mrs. Einstein;Niemand Heeft Nog Tijd;5;22;FALSE;755;0;17000000
+756;1997;9;Italy;Jalisse;Fiumi Di Parole;114;4;FALSE;756;0;60590000
+757;1997;10;Spain;Marcos LLunas;Sin Rencor;96;6;FALSE;757;8;46570000
+758;1997;11;Germany;Bianca Shomburg;Zeit;22;19;FALSE;758;0;82790000
+759;1997;12;Poland;Anna Maria Jopek;Ale Jestem;54;11;FALSE;759;1;37970000
+760;1997;13;Estonia;Maarja-Liis Ilus;Keelatud Maa;82;8;FALSE;760;0;1316000
+761;1997;14;Bosnia-Herzegovina;Alma Čardžić;Goodbye;22;18;FALSE;761;8;3880000
+762;1997;15;Portugal;Celia Lawson;Antes Do Adeus;0;23;FALSE;762;1;10310000
+763;1997;16;Sweden;Blond;Bara Hon Alskar Moj;36;14;FALSE;763;12;9995000
+764;1997;17;Greece;Marianna Zorba / Μαριάννα Ζορμπά;Horepse / Χόρεψε;39;12;FALSE;764;0;10770000
+765;1997;18;Malta;Debbie Scerri;Let Me Fly;66;9;TRUE;765;0;460297
+766;1997;19;Hungary;VIP;Miért Kell, Hogy Elmenj?;39;13;FALSE;766;0;9781000
+767;1997;20;Russia;Alla Pugachova / Алла Пугачева;Primadonna / Примадонна;33;15;FALSE;767;0;144500000
+768;1997;21;Denmark;Kølig Kaj;Stemmen I Mit Liv;25;16;FALSE;768;1;5770000
+769;1997;22;France;Fanny;Sentiments Songes;95;7;FALSE;769;3;67120000
+770;1997;23;Croatia;ENI;Probudi Mi;24;17;FALSE;770;3;4480000
+771;1997;24;United Kingdom;Katrina & the Waves ;Love Shine A Light;227;1;TRUE;771;12;66020000
+772;1997;25;Iceland;Paul Oscar;Minn Hinsti Dans;18;20;FALSE;772;3;338349
+773;1998;1;Croatia;Danijela;Neke Mi Ne Svane;131;5;FALSE;773;0;4480000
+774;1998;2;Greece;Thalassa / Θάλασσα;Mia Krifi Evesthisia / Μια κρυφή ευαισθησία;12;20;FALSE;774;0;10770000
+775;1998;3;France;Marie-Line;Où Aller;3;24;FALSE;775;0;67120000
+776;1998;4;Spain;Mikel Herzog;Que Voy A Hacer Sin Ti?;21;16;FALSE;776;3;46570000
+777;1998;5;Switzerland;Gunvor;Lass Ihn;0;24;FALSE;777;0;8420000
+778;1998;6;Slovakia;Katarína Hasprová;Modlitba;8;21;FALSE;778;7;5435000
+779;1998;7;Poland;Sixteen;To Takie Proste;19;17;FALSE;779;0;37970000
+780;1998;8;Israel;Dana International / דנה אינטרנשיונל ;Diva / דיווה;172;1;FALSE;780;2;8712000
+781;1998;9;Germany;Guildo Horn;Guildo Hat Euch Lieb;86;7;FALSE;781;16;82790000
+782;1998;10;Malta;Chiara;The One That I Love;165;3;TRUE;782;12;460297
+783;1998;11;Hungary;Charlie;A Holnap Már Nem Lesz Szomorú;4;23;FALSE;783;0;9781000
+784;1998;12;Slovenia;Vili Resnik;Naj Bogovi Slišijo;17;18;FALSE;784;2;1990000
+785;1998;13;Ireland;Dawn;Is Always Over Now;64;9;TRUE;785;5;4784000
+786;1998;14;Portugal;Alma Lusa;Se Eu Te Pudesse Abraçar;36;13;FALSE;786;0;10310000
+787;1998;15;Romania;Malina Olinescu;Eu Cred;6;22;FALSE;787;0;19640000
+788;1998;16;United Kingdom;Imaani;Where Are You?;166;2;TRUE;788;0;66020000
+789;1998;17;Cyprus;Michael Hajiyanni / Μ. Χατζηγιάννης;Genesis / Γένεσης;37;11;FALSE;789;1;1180000
+790;1998;18;Netherlands;Edsilia Rombley;Hemel En Aarde;150;4;FALSE;790;2;17000000
+791;1998;19;Sweden;Jill Johnson;Kärleken Är;53;10;FALSE;791;1;9995000
+792;1998;20;Belgium;Mélanie Cohl;Dis Oui;122;6;FALSE;792;2;11350000
+793;1998;21;Finland;Edea;Aava;22;15;FALSE;793;0;5503000
+794;1998;22;Norway;Lars A. Fredriksen;Alltid Sommer;79;8;FALSE;794;2;5258000
+795;1998;23;Estonia;Koit Toome;Mere Lapsed;36;12;FALSE;795;0;1316000
+796;1998;24;Turkey;Tüzmen;Unutamazsin;25;14;FALSE;796;1;79810000
+797;1998;25;Macedonia;Vlado Janevski / Владо Јаневски;Ne Zori, Zoro / не зори, зоро;16;19;FALSE;797;1;2090000
+798;1999;1;Lithuania;Aiste Smilgeviciute;Strazdas;13;20;FALSE;798;0;2848000
+799;1999;2;Belgium;Vanessa Chinitor;Like The Wind;38;12;TRUE;799;0;11350000
+800;1999;3;Spain;Lydia;No Quiero Escucharte;1;23;FALSE;800;3;46570000
+801;1999;4;Croatia;Doris Dragovic;Marija Magdalena;118;4;FALSE;801;1;4480000
+802;1999;5;United Kingdom;Precious;Say It Again;38;13;TRUE;802;0;66020000
+803;1999;6;Slovenia;Darja Švajger;For A Thousand Years;50;11;TRUE;803;4;1990000
+804;1999;7;Turkey;Tuba Önal & grup Mystik;Dön Artik;21;16;FALSE;804;11;79810000
+805;1999;8;Norway;Stig André van Eijk;Living My Life Without You;35;14;TRUE;805;1;5258000
+806;1999;9;Denmark;Michael Teschl & Trine Jepsen;This Time I Mean It;71;8;TRUE;806;5;5770000
+807;1999;10;France;Nayah;Je Veux Donner Ma Voix;14;19;FALSE;807;3;67120000
+808;1999;11;Netherlands;Marlayne;One Good Reason;71;9;TRUE;808;10;17000000
+809;1999;12;Poland;Mieczyslaw Szczesniak;Przytul Mnie Mocno;17;18;FALSE;809;0;37970000
+810;1999;13;Iceland;Selma Björnsdóttir;All Out Of Luck;146;2;TRUE;810;5;338349
+811;1999;14;Cyprus;Marlain Angelidou / Μαρλαίν Αγγελίδου;Thane Erotas / Θά ναι έρωτας;2;22;FALSE;811;8;1180000
+812;1999;15;Sweden;Charlotte Nilsson ;Take Me To Your Heaven;163;1;TRUE;812;2;9995000
+813;1999;16;Portugal;Rui Bandeira;Como Tudo Começou;12;21;FALSE;813;0;10310000
+814;1999;17;Ireland;The Mullans;When You Need Me;18;17;TRUE;814;1;4784000
+815;1999;18;Austria;Bobbie Singer;Reflection;65;10;TRUE;815;0;8773000
+816;1999;19;Israel;Eden / עדן;Happy Birthday / יום הולדת;93;5;TRUE;816;0;8712000
+817;1999;20;Malta;Times 3;Believe 'n' Peace;32;15;TRUE;817;5;460297
+818;1999;21;Germany;Sürpriz;Reise Nach Jerusalem;140;3;TRUE;818;0;82790000
+819;1999;22;Bosnia-Herzegovina;Dino & Beatrice;Putnici;86;7;FALSE;819;0;3880000
+820;1999;23;Estonia;Evelin Samuel & Camille;Diamond Of Night;90;6;TRUE;820;0;1316000
+821;2000;1;Israel;Ping Pong / פינג-פונג;Sa'me'akh / שמייח;7;22;FALSE;821;1;8712000
+822;2000;2;Netherlands;Linda Wagenmakers;No Goodbyes;40;13;TRUE;822;1;17000000
+823;2000;3;United Kingdom;Nicki French;Don't Play That Song Again;28;16;TRUE;823;1;66020000
+824;2000;4;Estonia;Ines;Once In A Lifetime;98;4;TRUE;824;0;1316000
+825;2000;5;France;Sofia Mestari;On Aura Le Ciel;5;23;FALSE;825;0;67120000
+826;2000;6;Romania;Taxi;The Moon;25;17;TRUE;826;4;19640000
+827;2000;7;Malta;Claudette Pace;Desire;73;8;TRUE;827;9;460297
+828;2000;8;Norway;Charmed;My Heart Goes Boom;57;11;TRUE;828;0;5258000
+829;2000;9;Russia;Alsou / Алсу;Solo;155;2;TRUE;829;0;144500000
+830;2000;10;Belgium;Nathalie Sorce;Envie De Vivre;2;24;FALSE;830;7;11350000
+831;2000;11;Cyprus;Voice;Nomiza / Νόμιζα;8;21;FALSE;831;4;1180000
+832;2000;12;Iceland;Einar Ágúst Viðisson & Telma Áugústdóttir;Tell Me;45;12;TRUE;832;1;338349
+833;2000;13;Spain;Serafin Zubiri;Colgado De Un Sueño;18;18;FALSE;833;0;46570000
+834;2000;14;Denmark;Olsen Brothers ;Fly On The Wings Of Love;195;1;TRUE;834;13;5770000
+835;2000;15;Germany;Stefan Raab;Wadde Hadde Dudde Da?;96;5;FALSE;835;0;82790000
+836;2000;16;Switzerland;Jane Bogaert;La Vita Cos'è;14;20;FALSE;836;5;8420000
+837;2000;17;Croatia;Goran Karan;Kada Zaspu Anðeli;70;9;FALSE;837;3;4480000
+838;2000;18;Sweden;Roger Pontare;When Spirits Are Calling My Name;88;7;TRUE;838;0;9995000
+839;2000;19;Macedonia;XXL;100% Te Ljubam / 100% те љубам;29;15;TRUE;839;20;2090000
+840;2000;20;Finland;Nina Åström;A Little Bit;18;19;TRUE;840;16;5503000
+841;2000;21;Latvia;BrainStorm;My Star;136;3;TRUE;841;1;1950000
+842;2000;22;Turkey;Pinar Ayhan & the S.O.S. band;Yorgunum Anta;59;10;TRUE;842;4;79810000
+843;2000;23;Ireland;Eamonn Toal;Millenium Of Love;92;6;TRUE;843;4;4784000
+844;2000;24;Austria;The Rounder girls;All To You;34;14;TRUE;844;1;8773000
+845;2001;1;Netherlands;Michelle;Out On My Own;16;19;TRUE;845;0;17000000
+846;2001;2;Iceland;Two Tricky;Angel;3;23;TRUE;846;1;338349
+847;2001;3;Bosnia-Herzegovina;Nino;Hano;29;14;TRUE;847;4;3880000
+848;2001;4;Norway;Haldor Lægreid;On My Own;3;22;TRUE;848;0;5258000
+849;2001;5;Israel;Tal Sondak / טל סונדק;Ein Davar / אין דבר;25;16;FALSE;849;1;8712000
+850;2001;6;Russia;Mumiy Troll / Мумий Тролль;Lady Alpine Blue;37;12;TRUE;850;1;144500000
+851;2001;7;Sweden;Friends;Listen To Your Heartbeat;100;5;TRUE;851;3;9995000
+852;2001;8;Lithuania;Skamp;U Got Style;35;13;TRUE;852;0;2848000
+853;2001;9;Latvia;Arnis Mednis;Too Much;16;18;TRUE;853;2;1950000
+854;2001;10;Croatia;Vanna;Strings Of My Heart;42;10;TRUE;854;0;4480000
+855;2001;11;Portugal;MTM;Só Sei Ser Feliz Assim;18;17;FALSE;855;2;10310000
+856;2001;12;Ireland;Gary O'Shaughnessy;Without Your Love;6;21;TRUE;856;7;4784000
+857;2001;13;Spain;David Civera;Dile Que La Quiero;76;6;FALSE;857;11;46570000
+858;2001;14;France;Natasha Saint-Pier;Je N'ai Que Mon Âme;142;4;TRUE;858;2;67120000
+859;2001;15;Turkey;Sedat Yüce;Sevgiliye Son;41;11;TRUE;859;4;79810000
+860;2001;16;United Kingdom;Lindsay D.;No Dream Impossible;28;15;TRUE;860;2;66020000
+861;2001;17;Slovenia;Nuša Derenda;Energy;70;7;TRUE;861;0;1990000
+862;2001;18;Poland;Piasek;2 Long;11;20;TRUE;862;0;37970000
+863;2001;19;Germany;Michelle;Wer Liebe Lebt;66;8;TRUE;863;6;82790000
+864;2001;20;Estonia;Tanel Padar, Dave Benton & 2XL ;Everybody;198;1;TRUE;864;0;1316000
+865;2001;21;Malta;Fabrizio Faniello;Another Summer Night;48;9;TRUE;865;1;460297
+866;2001;22;Greece;Antique;Die For You;147;3;TRUE;866;6;10770000
+867;2001;23;Denmark;Rollo & King;Never Ever Let You Go;177;2;TRUE;867;3;5770000
+868;2002;1;Cyprus;One;Gimme;85;6;TRUE;868;0;1180000
+869;2002;2;United Kingdom;Jessica Garlick;Come Back;111;4;TRUE;869;2;66020000
+870;2002;3;Austria;Manuel Ortega;Say A Word;26;18;TRUE;870;0;8773000
+871;2002;4;Greece;Michalis Rakintzis;S.a.g.a.p.o.;27;17;TRUE;871;8;10770000
+872;2002;5;Spain;Rosa;Europe's Living A Celebration;81;7;FALSE;872;0;46570000
+873;2002;6;Croatia;Vesna Pisarovic;Everything I Want;44;11;TRUE;873;12;4480000
+874;2002;7;Russia;Prime Minister / Премьер-Министр;Northern Girl;55;10;TRUE;874;1;144500000
+875;2002;8;Estonia;Sahléne;Runaway;111;3;TRUE;875;0;1316000
+876;2002;9;Macedonia;Karolina Gocheva / Каролина Гочева;Od Nas Zavisi / Од нас зависи;25;19;FALSE;876;1;2090000
+877;2002;10;Israel;Sarit Hadad / שרית חדד;Light A Candle;37;12;TRUE;877;1;8712000
+878;2002;11;Switzerland;Francine Jordi;Dans Le Jardin De Mon Âme;15;22;FALSE;878;1;8420000
+879;2002;12;Sweden;Afro-dite;Never Let It Go;72;8;TRUE;879;1;9995000
+880;2002;13;Finland;Laura;Addicted To You;24;20;TRUE;880;1;5503000
+881;2002;14;Denmark;Malene;Tell Me Who You Are;7;24;TRUE;881;0;5770000
+882;2002;15;Bosnia-Herzegovina;Maja Tatić;Na Jastuku Za Dvoje;33;15;TRUE;882;3;3880000
+883;2002;16;Belgium;Sergio & The Ladies;Sister;33;13;TRUE;883;5;11350000
+884;2002;17;France;Sandrine François;Il Faut Du Temps;104;5;FALSE;884;0;67120000
+885;2002;18;Germany;Corinna May;I Can't Live Without Music;17;21;TRUE;885;2;82790000
+886;2002;19;Turkey;Buket Bengisu & Saphire;Leylaklar Soldu Kalbinde;29;16;TRUE;886;6;79810000
+887;2002;20;Malta;Ira Losco;7th Wonder;164;2;TRUE;887;4;460297
+888;2002;21;Romania;Monica Anghel & Marcel Pavel;Tell Me Why;71;9;TRUE;888;2;19640000
+889;2002;22;Slovenia;Sestre;Samo Ljubezen;33;14;FALSE;889;5;1990000
+890;2002;23;Latvia;Marie N ;I Wanna;176;1;TRUE;890;6;1950000
+891;2002;24;Lithuania;Aivaras;Happy You;12;23;TRUE;891;10;2848000
+892;2003;1;Iceland;Birgitta;Open Your Heart;81;8;TRUE;892;0;338349
+893;2003;2;Austria;Alf Poier;Weil Der Mensch Zählt;101;6;FALSE;893;0;8773000
+894;2003;3;Ireland;Mickey Harte;We've Got The World;53;11;TRUE;894;7;4784000
+895;2003;4;Turkey;Sertab Erener ;Everyway That I Can;167;1;TRUE;895;12;79810000
+896;2003;5;Malta;Lynn Chircop;To Dream Again;4;25;TRUE;896;12;460297
+897;2003;6;Bosnia-Herzegovina;Mija Martina;Ne Brini;27;16;TRUE;897;1;3880000
+898;2003;7;Portugal;Rita Guerra;Deixa-me Sonhar;13;22;TRUE;898;0;10310000
+899;2003;8;Croatia;Claudia Beni;Više Nisam Tvoja;29;15;TRUE;899;4;4480000
+900;2003;9;Cyprus;Stelios Constantas / Στέλιος Κωσταντάς;Feeling Alive;15;20;TRUE;900;1;1180000
+901;2003;10;Germany;Lou;Let's Get Happy;53;12;TRUE;901;0;82790000
+902;2003;11;Russia;t.A.T.u. / т.а.Т.у.;Ne Ver’, Ne Bojsia / Не верь, не бойся;164;3;FALSE;902;2;144500000
+903;2003;12;Spain;Beth;Dime;81;8;FALSE;903;1;46570000
+904;2003;13;Israel;Lior Narkis / ליאור נרקיס;Words For Love;17;19;TRUE;904;9;8712000
+905;2003;14;Netherlands;Esther Hart;One More Night;45;13;TRUE;905;5;17000000
+906;2003;15;United Kingdom;Jemini;Cry Baby;0;26;TRUE;906;7;66020000
+907;2003;16;Ukraine;Olexandr;Hasta La Vista;30;14;TRUE;907;1;44830000
+908;2003;17;Greece;Mando / Μαντώ;Never Let You Go;25;17;TRUE;908;1;10770000
+909;2003;18;Norway;Jostein Hasselgård;I´m Not Afraid To Move On;123;4;TRUE;909;3;5258000
+910;2003;19;France;Louisa Baïleche;Monts Et Merveilles;19;18;FALSE;910;6;67120000
+911;2003;20;Poland;Ich Troje;Keine Grenzen - Zadnych Granic;90;7;FALSE;911;1;37970000
+912;2003;21;Latvia;F.L.Y.;Hello From Mars;5;24;TRUE;912;2;1950000
+913;2003;22;Belgium;Urban Trad;Sanomi;165;2;FALSE;913;0;11350000
+914;2003;23;Estonia;Ruffus;Eighties Coming Back;14;21;TRUE;914;0;1316000
+915;2003;24;Romania;Nicola;Don’t Break My Heart;73;10;TRUE;915;0;19640000
+916;2003;25;Sweden;Fame;Give Me Your Love;107;5;TRUE;916;18;9995000
+917;2003;26;Slovenia;Karmen Stavec;Nanana;7;23;TRUE;917;0;1990000
+918;2004;1;Spain;Ramón;Para Llenarme De Ti;87;10;FALSE;918;19;46570000
+919;2004;2;Austria;Tie-Break;Du Bist;9;21;FALSE;919;3;8773000
+920;2004;3;Norway;Knut Anders Sørum;High;3;24;TRUE;920;0;5258000
+921;2004;4;France;Jonatan Cerrada;A Chaque Pas;40;15;FALSE;921;3;67120000
+922;2004;5;Serbia & Montenegro;Željko Joksimović & the Ad Hoc Orchestra;Lane Moje;263;2;FALSE;922;3;10830000
+923;2004;6;Malta;Julie & Ludwig;On Again..., Off Again...;50;12;TRUE;923;4;460297
+924;2004;7;Netherlands;Re-Union;Without You;11;20;TRUE;924;0;17000000
+925;2004;8;Germany;Max;Can't Wait Until Tonight;93;8;TRUE;925;2;82790000
+926;2004;9;Albania;Anjeza Shahini;The Image Of You;106;7;TRUE;926;4;2873000
+927;2004;10;Ukraine;Ruslana / Руслана Лижичко ;Wild Dances;280;1;TRUE;927;3;44830000
+928;2004;11;Croatia;Ivan Mikulić;You Are The Only One;50;13;TRUE;928;7;4480000
+929;2004;12;Bosnia-Herzegovina;Deen;In The Disco;91;9;TRUE;929;0;3880000
+930;2004;13;Belgium;Xandee;1 Life;7;22;TRUE;930;0;11350000
+931;2004;14;Russia;Julia Savicheva;Believe Me;67;11;TRUE;931;0;144500000
+932;2004;15;Macedonia;Toše Proeski / Тоше Проески;Life;47;14;TRUE;932;0;2090000
+933;2004;16;Greece;Sakis Rouvas / Σάκης Ρουβάς;Shake It;252;3;TRUE;933;15;10770000
+934;2004;17;Iceland;Jónsi;Heaven;16;19;TRUE;934;2;338349
+935;2004;18;Ireland;Chris Doran;If My World Stopped Turning;7;23;TRUE;935;1;4784000
+936;2004;19;Poland;Blue Café;Love Song;27;17;TRUE;936;14;37970000
+937;2004;20;United Kingdom;James Fox;Hold Onto Our Love;29;16;TRUE;937;13;66020000
+938;2004;21;Cyprus;Lisa Andreas;Stronger Every Minute;170;6;TRUE;938;3;1180000
+939;2004;22;Turkey;Athena;For Real;195;4;TRUE;939;0;79810000
+940;2004;23;Romania;Sanda Ladosi;I Admit;18;18;TRUE;940;3;19640000
+941;2004;24;Sweden;Lena Philipsson;It Hurts;170;5;TRUE;941;1;9995000
+942;2005;1;Hungary;Nox;Forogj Világ!;97;12;FALSE;942;1;9781000
+943;2005;2;United Kingdom;Javine;Touch My Fire;18;22;TRUE;943;0;66020000
+944;2005;3;Malta;Chiara;Angel;192;2;TRUE;944;1;460297
+945;2005;4;Romania;Luminita Anghel & Sistem;Let Me Try;158;3;TRUE;945;0;19640000
+946;2005;5;Norway;Wig Wam;In My Dreams;125;9;TRUE;946;0;5258000
+947;2005;6;Turkey;Gülseren;Rimi Rimi Ley;93;13;FALSE;947;13;79810000
+948;2005;7;Moldova;Zdob Si Zdub;Boonika Bate Doba;148;6;TRUE;948;1;3550000
+949;2005;8;Albania;Ledina Çelo;Tomorrow I Go;53;16;TRUE;949;0;2873000
+950;2005;9;Cyprus;Constantinos Christoforou / Κωνσταντίνος Χριστοφόρου;Ela Ela (come Baby);46;18;TRUE;950;0;1180000
+951;2005;10;Spain;Son De Sol;Brujería;28;21;FALSE;951;7;46570000
+952;2005;11;Israel;Shiri Maimon / שירי מימון;Hasheket Shenish'ar / השקט שנשאר;154;4;TRUE;952;1;8712000
+953;2005;12;Serbia & Montenegro;No Name;Zauvijek Moja;137;7;FALSE;953;3;10830000
+954;2005;13;Denmark;Jakob Sveistrup;Talking To You;125;10;TRUE;954;1;5770000
+955;2005;14;Sweden;Martin Stenmarck;Las Vegas;30;19;TRUE;955;0;9995000
+956;2005;15;Macedonia;Martin Vucič / Мартин Вучиќ;Make My Day;52;17;TRUE;956;4;2090000
+957;2005;16;Ukraine;Greenjolly / Ґринджоли;Razom Nas Bahato / Разом нас багато;30;20;TRUE;957;0;44830000
+958;2005;17;Germany;Gracia;Run & Hide;4;24;TRUE;958;0;82790000
+959;2005;18;Croatia;Boris Novković ft. Lado members;Vukovi Umiru Sami;115;11;FALSE;959;1;4480000
+960;2005;19;Greece;Helena Paparizou / Ελενα Παπαρίζου ;My Number One;230;1;TRUE;960;8;10770000
+961;2005;20;Russia;Natalia Podolskaya / Наталья Подольская;Nobody Hurt No One;57;15;TRUE;961;0;144500000
+962;2005;21;Bosnia-Herzegovina;Feminnem;Call Me;79;14;TRUE;962;0;3880000
+963;2005;22;Switzerland;Vanilla Ninja;Cool Vibes;128;8;TRUE;963;0;8420000
+964;2005;23;Latvia;Walters & Kaža;The War Is Not Over;153;5;TRUE;964;0;1950000
+965;2005;24;France;Ortal;Chacun Pense À Soi;11;23;FALSE;965;3;67120000
+966;2006;1;Switzerland;Six4One;If We All Give A Little;30;17;TRUE;966;5;8420000
+967;2006;2;Moldova;Arsenium ft. Natalia Gordienko & Connect-R;Loca;22;20;TRUE;967;4;3550000
+968;2006;3;Israel;Eddie Butler;Ze Hazman / זה הזמן;4;23;TRUE;968;11;8712000
+969;2006;4;Latvia;Cosmos;I Hear Your Heart;30;16;TRUE;969;9;1950000
+970;2006;5;Norway;Christine Guldbrandsen;Alvedansen;36;14;FALSE;970;0;5258000
+971;2006;6;Spain;Las Ketchup;Un Blodymary;18;21;FALSE;971;0;46570000
+972;2006;7;Malta;Fabrizio Faniello;I Do;1;24;TRUE;972;6;460297
+973;2006;8;Germany;Texas Lightning;No No Never;36;15;TRUE;973;8;82790000
+974;2006;9;Denmark;Sidsel Ben Semmane;Twist Of Love;26;18;TRUE;974;3;5770000
+975;2006;10;Russia;Dima Bilan / Дима Билан;Never Let You Go;248;2;TRUE;975;1;144500000
+976;2006;11;Macedonia;Elena Risteska / Елена Ристеска;Ninanajna / Нинанајна;56;12;TRUE;976;3;2090000
+977;2006;12;Romania;Mihai Trăistariu;Tornero;172;4;TRUE;977;0;19640000
+978;2006;13;Bosnia-Herzegovina;Hari Mata Hari;Lejla;229;3;FALSE;978;3;3880000
+979;2006;14;Lithuania;LT United;We Are The s;162;6;TRUE;979;0;2848000
+980;2006;15;United Kingdom;Daz Sampson;Teenage Life;25;19;TRUE;980;0;66020000
+981;2006;16;Greece;Anna Vissi / Αννα Βίσση;Everything;128;9;TRUE;981;7;10770000
+982;2006;17;Finland;Lordi ;Hard Rock Hallelujah;292;1;TRUE;982;0;5503000
+983;2006;18;Ukraine;Tina Karol / Тина Кароль;Show Me Your Love;145;7;TRUE;983;17;44830000
+984;2006;19;France;Virginie Pouchain;Il Etait Temps;5;22;FALSE;984;0;67120000
+985;2006;20;Croatia;Severina;Moja Štikla;56;13;FALSE;985;0;4480000
+986;2006;21;Ireland;Brian Kennedy;Every Song Is A Cry For Love;93;10;TRUE;986;12;4784000
+987;2006;22;Sweden;Carola Häggkvist;Invincible;170;5;TRUE;987;6;9995000
+988;2006;23;Turkey;Sibel Tüzün;Süper Star;91;11;TRUE;988;9;79810000
+989;2006;24;Armenia;André / Անդրեն;Without Your Love?;129;8;TRUE;989;26;2930000
+990;2007;1;Bosnia-Herzegovina;Marija Šestić;Rijeka Bez Imena;106;11;FALSE;990;1;3880000
+991;2007;2;Spain;d'Nash;I Love You Mi Vida;43;20;FALSE;991;22;46570000
+992;2007;3;Belarus;Koldun / Колдун;Work Your Magic;145;6;TRUE;992;2;9508000
+993;2007;4;Ireland;Dervish;They Can't Stop The Spring;5;24;TRUE;993;0;4784000
+994;2007;5;Finland;Hanna Pakarinen;Leave Me Alone;53;17;TRUE;994;2;5503000
+995;2007;6;Macedonia;Karolina Goceva;Mojot Svet;73;14;TRUE;995;0;2090000
+996;2007;7;Slovenia;Alenka Gotar;Cvet Z Juga;66;15;FALSE;996;1;1990000
+997;2007;8;Hungary;Magdi Rúzsa;Unsubstantial Blues;128;9;TRUE;997;1;9781000
+998;2007;9;Lithuania;4Fun;Love Or Leave;28;21;TRUE;998;1;2848000
+999;2007;10;Greece;Sarbel Michael / Σαρμπέλ Μιχαήλ;Yassou Maria;139;7;TRUE;999;0;10770000
+1000;2007;11;Georgia;Sopho / სოფო;Visionary Dream;97;12;TRUE;1000;0;3717000
+1001;2007;12;Sweden;The Ark;The Worrying Kind;51;18;TRUE;1001;0;9995000
+1002;2007;13;France;Les Fatals Picards;L’amour À La Française;19;22;TRUE;1002;10;67120000
+1003;2007;14;Latvia;Bonaparte.lv;Questa Notte;54;16;FALSE;1003;5;1950000
+1004;2007;15;Russia;Serebro;Song #1;207;3;TRUE;1004;0;144500000
+1005;2007;16;Germany;Roger Cicero;Frauen Regier'n Die Welt;49;19;TRUE;1005;0;82790000
+1006;2007;17;Serbia;Marija Šerifović ;Molitva;268;1;FALSE;1006;3;7240000
+1007;2007;18;Ukraine;Verka Serduchka / Вєрка Сердючка;Dancing Lasha Tumbai;235;2;FALSE;1007;3;44830000
+1008;2007;19;United Kingdom;Scooch;Flying The Flag (For You);19;23;TRUE;1008;0;66020000
+1009;2007;20;Romania;Todomondo;Liubi, Liubi, I Love You;84;13;FALSE;1009;19;19640000
+1010;2007;21;Bulgaria;Elitsa & Stoyan;Water;157;5;FALSE;1010;0;7102000
+1011;2007;22;Turkey;Kenan Doğulu;Shake It Up Shekerim;163;4;TRUE;1011;4;79810000
+1012;2007;23;Armenia;Hayko / Հայկո;Anything You Need;138;8;TRUE;1012;0;2930000
+1013;2007;24;Moldova;Natalia Barbu;Fight;109;10;TRUE;1013;0;3550000
+1014;2008;1;Romania;Nico & Vlad Miriţă;Pe-o Margine De Lume;45;20;FALSE;1014;4;19640000
+1015;2008;2;United Kingdom;Andy Abraham;Even If;14;25;TRUE;1015;4;66020000
+1016;2008;3;Albania;Olta Boka;Zemrën E Lamë Peng;55;17;FALSE;1016;2;2873000
+1017;2008;4;Germany;No Angels;Disappear;14;23;TRUE;1017;0;82790000
+1018;2008;5;Armenia;Sirusho / Սիրուշո;Qele, Qele / Քելե Քելե;199;4;TRUE;1018;0;2930000
+1019;2008;6;Bosnia-Herzegovina;Laka;Pokušaj;110;10;FALSE;1019;8;3880000
+1020;2008;7;Israel;Boaz Mauda / בועז מעודה;The Fire In Your Eyes;124;9;TRUE;1020;0;8712000
+1021;2008;8;Finland;Teräsbetoni;Missä Miehet Ratsastaa;35;22;FALSE;1021;1;5503000
+1022;2008;9;Croatia;Kraljevi Ulice & 75 Cents;Romanca;44;21;FALSE;1022;0;4480000
+1023;2008;10;Poland;Isis Gee;For Life;14;24;TRUE;1023;2;37970000
+1024;2008;11;Iceland;Euroband;This Is My Life;64;14;TRUE;1024;0;338349
+1025;2008;12;Turkey;Mor Ve Ötesi;Deli;138;7;FALSE;1025;3;79810000
+1026;2008;13;Portugal;Vânia Fernandes;Senhora Do Mar;69;13;FALSE;1026;1;10310000
+1027;2008;14;Latvia;Pirates Of The Sea;Wolves Of The Sea;83;12;TRUE;1027;0;1950000
+1028;2008;15;Sweden;Charlotte Perrelli;Hero;47;18;TRUE;1028;5;9995000
+1029;2008;16;Denmark;Simon Mathew;All Night Long;60;15;TRUE;1029;0;5770000
+1030;2008;17;Georgia;Diana Gurtskaya;Peace Will Come;83;11;TRUE;1030;1;3717000
+1031;2008;18;Ukraine;Ani Lorak;Shady Lady;230;2;TRUE;1031;1;44830000
+1032;2008;19;France;Sébastien Tellier;Divine;47;19;TRUE;1032;3;67120000
+1033;2008;20;Azerbaijan;Elnur & Samir;Day After Day;132;8;TRUE;1033;2;9862000
+1034;2008;21;Greece;Kalomira;Secret Combination;218;3;TRUE;1034;0;10770000
+1035;2008;22;Spain;Rodolfo Chikilicuatre;Baila El Chiki Chiki;55;16;TRUE;1035;2;46570000
+1036;2008;23;Serbia;Jelena Tomaševic ft. Bora Dugic;Oro;160;6;FALSE;1036;1;7240000
+1037;2008;24;Russia;Dima Bilan ;Believe;272;1;TRUE;1037;0;144500000
+1038;2008;25;Norway;Maria Haukaas Storeng;Hold On Be Strong;182;5;TRUE;1038;0;5258000
+1039;2009;1;Lithuania;Sasha Son;Love;23;23;TRUE;1039;54;2848000
+1040;2009;2;Israel;Noa & Mira Awad;There Must Be Another Way;53;16;TRUE;1040;0;8712000
+1041;2009;3;France;Patricia Kaas;Et S'il Fallait Le Faire;107;8;FALSE;1041;1;67120000
+1042;2009;4;Sweden;Malena Ernman;La Voix;33;21;TRUE;1042;18;9995000
+1043;2009;5;Croatia;Igor Cukrov feat. Andrea;Lijepa Tena;45;18;FALSE;1043;1;4480000
+1044;2009;6;Portugal;Flor-de-Lis;Todas As Ruas Do Amor;57;15;FALSE;1044;6;10310000
+1045;2009;7;Iceland;Yohanna;Is It True;218;2;TRUE;1045;0;338349
+1046;2009;8;Greece;Sakis Rouvas / Σάκης Ρουβάς;This Is Our Night;120;7;TRUE;1046;0;10770000
+1047;2009;9;Armenia;Inga & Anush Arshakyanner;Jan Jan;92;10;TRUE;1047;0;2930000
+1048;2009;10;Russia;Anastasia Prikhodko;Mamo;91;11;FALSE;1048;4;144500000
+1049;2009;11;Azerbaijan;AySel & Arash;Always;207;3;TRUE;1049;0;9862000
+1050;2009;12;Bosnia-Herzegovina;Regina;Bistra Voda;106;9;FALSE;1050;1;3880000
+1051;2009;13;Moldova;Nelly Ciobanu;Hora Din Moldova;69;14;TRUE;1051;2;3550000
+1052;2009;14;Malta;Chiara;What If We;31;22;TRUE;1052;0;460297
+1053;2009;15;Estonia;Urban Symphony;Rändajad;129;6;FALSE;1053;0;1316000
+1054;2009;16;Denmark;Brinck;Believe Again;74;13;TRUE;1054;4;5770000
+1055;2009;17;Germany;Alex Swings Oscar Sings;Miss Kiss Kiss Bang;35;20;TRUE;1055;1;82790000
+1056;2009;18;Turkey;Hadise;Düm Tek Tek;177;4;TRUE;1056;0;79810000
+1057;2009;19;Albania;Kejsi Tola;Carry Me In Your Dreams;48;17;TRUE;1057;11;2873000
+1058;2009;20;Norway;Alexander Rybak ;Fairytale;387;1;TRUE;1058;3;5258000
+1059;2009;21;Ukraine;Svetlana Loboda;Be My Valentine (Anti Crisis Girl);76;12;TRUE;1059;0;44830000
+1060;2009;22;Romania;Elena Gheorghe;The Balkan Girls;40;19;TRUE;1060;1;19640000
+1061;2009;23;United Kingdom;Jade Ewen;It's My Time;173;5;TRUE;1061;0;66020000
+1062;2009;24;Finland;Waldo's People;Lose Control;22;25;TRUE;1062;0;5503000
+1063;2009;25;Spain;Soraya;La Noche Es Para Mí;23;24;TRUE;1063;0;46570000
+1064;2010;1;Azerbaijan;Safura;Drip Drop;145;5;TRUE;1064;3;9862000
+1065;2010;2;Spain;Daniel Diges;Algo Pequeñito;68;15;FALSE;1065;7;46570000
+1066;2010;3;Norway;Didrik Solli-Tangen;My Heart Is Yours;35;20;TRUE;1066;3;5258000
+1067;2010;4;Moldova;Sunstroke Project & Olia Tira;Run Away;27;22;TRUE;1067;0;3550000
+1068;2010;5;Cyprus;Jon Lilygreen & The Islanders;Life Looks Better In Spring;27;21;TRUE;1068;0;1180000
+1069;2010;6;Bosnia-Herzegovina;Vukašin Brajić;Thunder And Lightning;51;17;TRUE;1069;0;3880000
+1070;2010;7;Belgium;Tom Dice;Me And My Guitar;143;6;TRUE;1070;1;11350000
+1071;2010;8;Serbia;Milan Stanković;Ovo Je Balkan;72;13;FALSE;1071;0;7240000
+1072;2010;9;Belarus;3+2;Butterflies;18;24;TRUE;1072;1;9508000
+1073;2010;10;Ireland;Niamh Kavanagh;It's For You;25;23;TRUE;1073;6;4784000
+1074;2010;11;Greece;Giorgos Alkaios & Friends;Opa;140;8;FALSE;1074;0;10770000
+1075;2010;12;United Kingdom;Josh Dubovie;That Sounds Good To Me;10;25;TRUE;1075;0;66020000
+1076;2010;13;Georgia;Sofia Nizharadze;Shine;136;9;TRUE;1076;2;3717000
+1077;2010;14;Turkey;maNga;We Could Be The Same;170;2;TRUE;1077;2;79810000
+1078;2010;15;Albania;Juliana Pasha;It's All About You;62;16;TRUE;1078;1;2873000
+1079;2010;16;Iceland;Hera Björk;Je Ne Sais Quoi;41;19;TRUE;1079;2;338349
+1080;2010;17;Ukraine;Alyosha;Sweet People;108;10;TRUE;1080;1;44830000
+1081;2010;18;France;Jessy Matador;Alllez Ola Olé;82;12;FALSE;1081;0;67120000
+1082;2010;19;Romania;Paula Seling & Ovi;Playing With Fire;162;3;TRUE;1082;0;19640000
+1083;2010;20;Russia;Peter Nalitch & Friends;Lost And Forgotten;90;11;TRUE;1083;4;144500000
+1084;2010;21;Armenia;Eva Rivas;Apricot Stone;141;7;TRUE;1084;1;2930000
+1085;2010;22;Germany;Lena ;Satellite;246;1;TRUE;1085;16;82790000
+1086;2010;23;Portugal;Filipa Azevedo;Há Dias Assim;43;18;FALSE;1086;1;10310000
+1087;2010;24;Israel;Harel Skaat;Milim;71;14;FALSE;1087;0;8712000
+1088;2010;25;Denmark;Chanée & N'evergreen;In A Moment Like This;149;4;TRUE;1088;1;5770000
+1089;2011;1;Finland;Paradise Oskar;Da Da Dam;57;21;TRUE;1089;0;5503000
+1090;2011;2;Bosnia-Herzegovina;Dino Merlin;Love In Rewind;125;6;TRUE;1090;9;3880000
+1091;2011;3;Denmark;A Friend In London;New Tomorrow;134;5;TRUE;1091;0;5770000
+1092;2011;4;Lithuania;Evelina Sašenko;C'est Ma Vie;63;19;TRUE;1092;8;2848000
+1093;2011;5;Hungary;Kati Wolf;What About My Dreams;53;22;TRUE;1093;0;9781000
+1094;2011;6;Ireland;Jedward;Lipstick;119;8;TRUE;1094;0;4784000
+1095;2011;7;Sweden;Eric Saade;Popular;185;3;TRUE;1095;0;9995000
+1096;2011;8;Estonia;Getter Jaani;Rockefeller Street;44;24;TRUE;1096;0;1316000
+1097;2011;9;Greece;Loucas Yiorkas Ft. Stereo Mike;Watch My Dance;120;7;TRUE;1097;0;10770000
+1098;2011;10;Russia;Alexey Vorobjov;Get You;77;16;TRUE;1098;0;144500000
+1099;2011;11;France;Amaury Vassili;Sognu;82;15;FALSE;1099;0;67120000
+1100;2011;12;Italy;Raffaele Gualazzi;Maddnes Of Love;189;2;TRUE;1100;1;60590000
+1101;2011;13;Switzerland;Anna Rossinelli;In Love For A While;19;25;TRUE;1101;6;8420000
+1102;2011;14;United Kingdom;Blue;I Can;100;11;TRUE;1102;0;66020000
+1103;2011;15;Moldova;Zdob Si Zdub;So Lucky;97;12;TRUE;1103;1;3550000
+1104;2011;16;Germany;Lena;Taken By A Stranger;107;10;TRUE;1104;0;82790000
+1105;2011;17;Romania;Hotel FM;Change;77;16;TRUE;1105;0;19640000
+1106;2011;18;Austria;Nadine Beiler;The Secret Is Love;64;18;TRUE;1106;9;8773000
+1107;2011;19;Azerbaijan;Ell & Nikki ;Running Scared;221;1;TRUE;1107;0;9862000
+1108;2011;20;Slovenia;Maja Keuc;No One;96;13;TRUE;1108;6;1990000
+1109;2011;21;Iceland;Sjonni's Friends;Coming Home;61;20;TRUE;1109;2;338349
+1110;2011;22;Spain;Lucía Pérez;Que Me Quiten Lo Bailao;50;23;FALSE;1110;0;46570000
+1111;2011;23;Ukraine;Mika Newton;Angel;159;4;TRUE;1111;2;44830000
+1112;2011;24;Serbia;Nina;Čaroban;85;14;FALSE;1112;4;7240000
+1113;2011;25;Georgia;Eldrine;One More Day;110;9;TRUE;1113;0;3717000
+1114;2012;1;United Kingdom;Engelbert Humperdinck;Love Will Set You Free;12;25;TRUE;1114;8;66020000
+1115;2012;2;Hungary;Compact Disco;Sound Of Our Hearts;19;24;TRUE;1115;0;9781000
+1116;2012;3;Albania;Rona Nishliu;Suus;146;5;FALSE;1116;1;2873000
+1117;2012;4;Lithuania;Donny Montell;Love Is Blind;70;14;TRUE;1117;1;2848000
+1118;2012;5;Bosnia-Herzegovina;Maya Sar;Korake Ti Znam;55;18;FALSE;1118;0;3880000
+1119;2012;6;Russia;Buranovskie Babushki;Party For Everybody;259;2;TRUE;1119;0;144500000
+1120;2012;7;Iceland;Gréta Salóme & Jónsi;Never Forget;46;20;TRUE;1120;0;338349
+1121;2012;8;Cyprus;Ivi Adamou;Lala Love;65;16;TRUE;1121;10;1180000
+1122;2012;9;France;Anggun;Echo (You And I);21;22;TRUE;1122;1;67120000
+1123;2012;10;Italy;Nina Zilli;L'amore E' Femmina (Out Of Love);101;9;TRUE;1123;7;60590000
+1124;2012;11;Estonia;Ott Lepland;Kuula;120;6;FALSE;1124;0;1316000
+1125;2012;12;Norway;Tooji;Stay;7;26;TRUE;1125;0;5258000
+1126;2012;13;Azerbaijan;Sabina Babayeva;When The Music Dies;150;4;TRUE;1126;0;9862000
+1127;2012;14;Romania;Mandinga;Zaleilah;71;12;TRUE;1127;6;19640000
+1128;2012;15;Denmark;Soluna Samay;Should've Known Better;21;23;TRUE;1128;0;5770000
+1129;2012;16;Greece;Eleftheria Eleftheriou;Aphrodisiac;64;17;TRUE;1129;0;10770000
+1130;2012;17;Sweden;Loreen ;Euphoria;372;1;TRUE;1130;4;9995000
+1131;2012;18;Turkey;Can Bonomo;Love Me Back;112;7;TRUE;1131;6;79810000
+1132;2012;19;Spain;Pastora Soler;Quédate Conmigo;97;10;FALSE;1132;8;46570000
+1133;2012;20;Germany;Roman Lob;Standing Still;110;8;TRUE;1133;0;82790000
+1134;2012;21;Malta;Kurt Calleja;This Is The Night;41;21;TRUE;1134;0;460297
+1135;2012;22;Macedonia;Kaliopi;Crno I Belo;71;13;FALSE;1135;0;2090000
+1136;2012;23;Ireland;Jedward;Waterline;46;19;TRUE;1136;2;4784000
+1137;2012;24;Serbia;Željko Joksimović;Nije Ljubav Stvar;214;3;FALSE;1137;7;7240000
+1138;2012;25;Ukraine;Gaitana;Be My Guest;65;15;TRUE;1138;10;44830000
+1139;2012;26;Moldova;Pasha Parfeny;Lăutar;81;11;TRUE;1139;0;3550000
+1140;2013;1;France;Amandine Bourgeois;L'enfer Et Moi;14;23;FALSE;1140;1;67120000
+1141;2013;2;Lithuania;Andrius Pojavis;Something;17;22;TRUE;1141;3;2848000
+1142;2013;3;Moldova;Aliona Moon;O Mie;71;11;FALSE;1142;1;3550000
+1143;2013;4;Finland;Krista Siegfrieds;Marry Me;13;24;TRUE;1143;3;5503000
+1144;2013;5;Spain;El Sueño De Morfeo;Contigo Haste El Final;8;25;FALSE;1144;1;46570000
+1145;2013;6;Belgium;Roberto Bellarosa;Love Kills;71;12;TRUE;1145;12;11350000
+1146;2013;7;Estonia;Birgit Oigemeel;Et Uus Saks Alguse;19;20;FALSE;1146;0;1316000
+1147;2013;8;Belarus;Alyona Lanskaya;Solayoh;48;16;TRUE;1147;1;9508000
+1148;2013;9;Malta;Gianluca Bezzina;Tomorrow;120;8;TRUE;1148;0;460297
+1149;2013;10;Russia;Dina Garipova;What If;174;5;TRUE;1149;0;144500000
+1150;2013;11;Germany;Cascada;Glorious;18;21;TRUE;1150;4;82790000
+1151;2013;12;Armenia;Dorians;Lonely Planet;41;18;TRUE;1151;0;2930000
+1152;2013;13;Netherlands;Anouk;Birds;114;9;TRUE;1152;1;17000000
+1153;2013;14;Romania;Cezar;It's My Life;65;13;TRUE;1153;3;19640000
+1154;2013;15;United Kingdom;Bonnie Taylor;Believe In Me;23;19;TRUE;1154;1;66020000
+1155;2013;16;Sweden;Robin Stjernberg;You;62;14;TRUE;1155;0;9995000
+1156;2013;17;Hungary;ByeAlex;Kedvesem;84;10;FALSE;1156;0;9781000
+1157;2013;18;Denmark;Emmelie de Forrest ;Only Teardrops;281;1;TRUE;1157;0;5770000
+1158;2013;19;Iceland;Eyþor Ingi Gunnlaugsson;Ég Á Líf;47;17;FALSE;1158;3;338349
+1159;2013;20;Azerbaijan;Farid Mammadov;Hold Me;234;2;TRUE;1159;6;9862000
+1160;2013;21;Greece;Koza Mostra Ft. Agathonas Iakovidis;Alcohol Is Free;152;6;TRUE;1160;0;10770000
+1161;2013;22;Ukraine;Zlata Ognevich;Gravity;214;3;TRUE;1161;2;44830000
+1162;2013;23;Italy;Marco Mengoni;L'essenziale;126;7;FALSE;1162;0;60590000
+1163;2013;24;Norway;Margaret Berger;I Feed You My Love;191;4;TRUE;1163;6;5258000
+1164;2013;25;Georgia;Nodi Tatishvili & Sophie Gelovani;Waterfall;50;15;TRUE;1164;5;3717000
+1165;2013;26;Ireland;Ryan Dolan;Only Love Survives;5;26;TRUE;1165;39;4784000
+1166;2014;1;Ukraine;Mariya Yaremchuk;Tick - Tock;113;6;TRUE;1166;9;44830000
+1167;2014;2;Belarus;Teo;Cheesecake;43;16;TRUE;1167;0;9508000
+1168;2014;3;Azerbaijan;Dilara Kazimova;Start A Fire;33;22;TRUE;1168;0;9862000
+1169;2014;4;Iceland;Pollapönk;No Prejudice;58;15;TRUE;1169;1;338349
+1170;2014;5;Norway;Carl Espen;Silent Storm;88;8;TRUE;1170;0;5258000
+1171;2014;6;Romania;Paula Seling & OVI;Miracle;72;12;TRUE;1171;0;19640000
+1172;2014;7;Armenia;Aram MP3;Not Alone;174;4;TRUE;1172;0;2930000
+1173;2014;8;Montenegro;Sergej Ćetković;Moj Svijet;37;19;FALSE;1173;5;653474
+1174;2014;9;Poland;Donatan & Cleo;My Slowianie We Are Slavic;62;14;FALSE;1174;0;37970000
+1175;2014;10;Greece;Freaky Fortune feat. RiskyKidd;Rise Up;35;20;TRUE;1175;2;10770000
+1176;2014;11;Austria;Conchita Wurst ;Rise Like A Phoenix;290;1;TRUE;1176;0;8773000
+1177;2014;12;Germany;Elaiza;Is It Right;39;18;TRUE;1177;0;82790000
+1178;2014;13;Sweden;Sanna Nielsen;Undo;218;3;TRUE;1178;2;9995000
+1179;2014;14;France;Twin Twin;Moustache;2;26;FALSE;1179;1;67120000
+1180;2014;15;Russia;Tolmachevy Sisters;Shine;89;7;TRUE;1180;6;144500000
+1181;2014;16;Italy;Emma;La Mia Cittá;33;21;FALSE;1181;5;60590000
+1182;2014;17;Slovenia;Tinkara Kovač;Round And Round;9;25;FALSE;1182;2;1990000
+1183;2014;18;Finland;Softengine;Something Better;72;11;TRUE;1183;0;5503000
+1184;2014;19;Spain;Ruth Lorenzo;Dancing In The Rain;74;10;FALSE;1184;1;46570000
+1185;2014;20;Switzerland;Sebalter;Hunter Of The Stars;64;13;TRUE;1185;1;8420000
+1186;2014;21;Hungary;András Kállay-Saunders;Running;143;5;TRUE;1186;0;9781000
+1187;2014;22;Malta;Firelight;Coming Home;32;23;TRUE;1187;1;460297
+1188;2014;23;Denmark;Basim;Cliche Love Song;74;9;TRUE;1188;10;5770000
+1189;2014;24;Netherlands;The Common Linnets;Calm After The Storm;238;2;TRUE;1189;0;17000000
+1190;2014;25;San Marino;Valentina Monetta;Maybe;14;24;TRUE;1190;1;33400
+1191;2014;26;United Kingdom;Molly;Children Of The Universe;40;17;TRUE;1191;1;66020000
+1192;2015;1;Slovenia;Maraaya;Here For You;39;14;TRUE;1192;1;1990000
+1193;2015;2;France;Lisa Angell;N'oubliez Pas;4;25;FALSE;1193;1;67120000
+1194;2015;3;Israel;Nadav Guedj;Golden Boy;97;9;TRUE;1194;7;8712000
+1195;2015;4;Estonia;Elina Born & Stig Rästa;Goodbye To Yesterday;106;7;TRUE;1195;3;1316000
+1196;2015;5;United Kingdom;Electro Velvet;Still In Love With You;5;24;TRUE;1196;8;66020000
+1197;2015;6;Armenia;Genealogy;Face The Shadow;34;16;TRUE;1197;0;2930000
+1198;2015;7;Lithuania;Monika Linkytė & Vaidas Baumila;This Time;30;18;TRUE;1198;20;2848000
+1199;2015;8;Serbia;Bojana;Beauty Never Lies;53;10;TRUE;1199;0;7240000
+1200;2015;9;Norway;Mørland & Debrah Scarlett;A Monster Like Me;102;8;TRUE;1200;0;5258000
+1201;2015;10;Sweden;Måns Zelmerlöw ;Heroes;365;1;TRUE;1201;0;9995000
+1202;2015;11;Cyprus;John Karayiannis;One Thing I Should Have Done;11;22;TRUE;1202;0;1180000
+1203;2015;12;Australia;Guy Sebastian;Tonight Again;196;5;TRUE;1203;0;24600000
+1204;2015;13;Belgium;Loïc Nottet;Rhythm Inside;217;4;TRUE;1204;4;11350000
+1205;2015;14;Austria;The Makemakes;I Am Yours;0;26;TRUE;1205;1;8773000
+1206;2015;15;Greece;Maria-Elena Kyriakou;One Last Breath;23;19;TRUE;1206;1;10770000
+1207;2015;16;Montenegro;Knez;Adio;44;13;TRUE;1207;1;653474
+1208;2015;17;Germany;Ann Sophie;Black Smoke;0;27;TRUE;1208;0;82790000
+1209;2015;18;Poland;Monika Kuszyńska;In The Name Of Love;10;23;TRUE;1209;7;37970000
+1210;2015;19;Latvia;Aminata;Love Injected;186;6;TRUE;1210;5;1950000
+1211;2015;20;Romania;Voltaj;De La Capăt (all Over Again);35;15;TRUE;1211;0;19640000
+1212;2015;21;Spain;Edurne;Amanecer;15;21;FALSE;1212;5;46570000
+1213;2015;22;Hungary;Boggie;Wars For Nothing;19;20;TRUE;1213;0;9781000
+1214;2015;23;Georgia;Nina Sublatti;Warrior;51;11;TRUE;1214;0;3717000
+1215;2015;24;Azerbaijan;Elnur Hüseynov;Hour Of The Wolf;49;12;TRUE;1215;0;9862000
+1216;2015;25;Russia;Polina;A Million Voices;303;2;TRUE;1216;2;144500000
+1217;2015;26;Albania;Elhaida Dani;I'm Alive;34;17;TRUE;1217;1;2873000
+1218;2015;27;Italy;Il Volo;Grande Amore;292;3;FALSE;1218;11;60590000
+1219;2016;1;Belgium;Laura Tesoro;What's The Pressure;181;10;TRUE;1219;0;11350000
+1220;2016;2;Czech Republic;Gabriela Guncíková;I Stand;41;25;TRUE;1220;0;10580000
+1221;2016;3;Netherlands;Douwe Bob;Slow Down;153;11;TRUE;1221;0;17000000
+1222;2016;4;Azerbaijan;Samra;Miracle;117;17;TRUE;1222;2;9862000
+1223;2016;5;Hungary;Freddie;Pioneer;108;19;TRUE;1223;1;9781000
+1224;2016;6;Italy;Francesca Michielin;No Degree Of Separation;124;16;FALSE;1224;1;60590000
+1225;2016;7;Israel;Hovi Star;Made Of Stars;135;14;TRUE;1225;0;8712000
+1226;2016;8;Bulgaria;Poli Genova;If Love Was A Crime;307;4;TRUE;1226;5;7102000
+1227;2016;9;Sweden;Frans;If I Were Sorry;261;5;TRUE;1227;0;9995000
+1228;2016;10;Germany;Jamie-Lee Kriewitz;Ghost;11;26;TRUE;1228;7;82790000
+1229;2016;11;France;Amir;J'ai Cherché;257;6;FALSE;1229;3;67120000
+1230;2016;12;Poland;Michał Szpak;Color Of Your Life;229;8;TRUE;1230;2;37970000
+1231;2016;13;Australia;Dami Im;Sound Of Silence;511;2;TRUE;1231;1;24600000
+1232;2016;14;Cyprus;Minus One;Alter Ego;96;21;TRUE;1232;2;1180000
+1233;2016;15;Serbia;Sanja Vučić ZAA;Goodbye (Shelter);115;18;TRUE;1233;1;7240000
+1234;2016;16;Lithuania;Donny Montell;I've Been Waiting For This Night;200;9;TRUE;1234;0;2848000
+1235;2016;17;Croatia;Nina Kraljic;Lighthouse;73;23;TRUE;1235;0;4480000
+1236;2016;18;Russia;Sergey Lazarev;You Are The Only One;491;3;TRUE;1236;3;144500000
+1237;2016;19;Spain;Barei;Say Yay!;77;22;TRUE;1237;0;46570000
+1238;2016;20;Latvia;Justs;Heartbeat;132;15;TRUE;1238;0;1950000
+1239;2016;21;Ukraine;Jamala ;1944;534;1;TRUE;1239;1;44830000
+1240;2016;22;Malta;Ira Losco;Walk On Water;153;12;TRUE;1240;5;460297
+1241;2016;23;Georgia;Nika Kocharov & Young Georgian Lolitaz;Midnight Gold;104;20;TRUE;1241;0;3717000
+1242;2016;24;Austria;Zoë;Loin D'ici;151;13;FALSE;1242;0;8773000
+1243;2016;25;United Kingdom;Joe & Jake;You're Not Alone;62;24;TRUE;1243;0;66020000
+1244;2016;26;Armenia;Iveta Mukuchyan;Lovewave;249;7;TRUE;1244;8;2930000
+1245;2017;1;Israel;Imri Ziv;I Feel Alive;39;23;TRUE;1245;0;8712000
+1246;2017;2;Poland;Kasia Moś;Flashlight;64;22;TRUE;1246;3;37970000
+1247;2017;3;Belarus;Naviband;Historyja Majho Žyccia / Story Of My Life;83;17;FALSE;1247;0;9508000
+1248;2017;4;Austria;Nathan Trent;Running On Air;93;16;TRUE;1248;0;8773000
+1249;2017;5;Armenia;Artsvik;Fly With Me;79;18;TRUE;1249;3;2930000
+1250;2017;6;Netherlands;O'G3NE;Lights And Shadows;150;11;TRUE;1250;0;17000000
+1251;2017;7;Moldova;SunStroke Project;Hey, Mamma!;374;3;TRUE;1251;0;3550000
+1252;2017;8;Hungary;Joci Pápai;Origo;200;8;FALSE;1252;0;9781000
+1253;2017;9;Italy;Francesco Gabbani;Occidentali’s Karma;334;6;FALSE;1253;0;60590000
+1254;2017;10;Denmark;Anja Nissen;Where I Am;77;20;TRUE;1254;6;5770000
+1255;2017;11;Portugal;Salvador Sobral ;Amar Pelos Dois;758;1;FALSE;1255;4;10310000
+1256;2017;12;Azerbaijan;Dihaj;Skeletons;120;14;TRUE;1256;0;9862000
+1257;2017;13;Croatia;Jacques Houdek;My Friend;128;13;TRUE;1257;0;4480000
+1258;2017;14;Australia;Isaiah;Don't Come Easy;173;9;TRUE;1258;10;24600000
+1259;2017;15;Greece;Demy;This Is Love;77;19;TRUE;1259;7;10770000
+1260;2017;16;Spain;Manel Navarro;Do It For Your Lover;5;26;FALSE;1260;32;46570000
+1261;2017;17;Norway;JOWST feat. Aleksander Walmann;Grab The Moment;158;10;TRUE;1261;0;5258000
+1262;2017;18;United Kingdom;Lucie Jones;Never Give Up On You;111;15;TRUE;1262;0;66020000
+1263;2017;19;Cyprus;Hovig;Gravity;68;21;TRUE;1263;0;1180000
+1264;2017;20;Romania;Ilinca feat. Alex Florea;Yodel It!;282;7;TRUE;1264;0;19640000
+1265;2017;21;Germany;Levina;Perfect Life;6;25;TRUE;1265;0;82790000
+1266;2017;22;Ukraine;O.Torvald;Time;36;24;TRUE;1266;0;44830000
+1267;2017;23;Belgium;Blanche;City Lights;363;4;TRUE;1267;0;11350000
+1268;2017;24;Sweden;Robin Bengtsson;I Can't Go On;344;5;TRUE;1268;2;9995000
+1269;2017;25;Bulgaria;Kristian Kostov;Beautiful Mess;615;2;TRUE;1269;6;7102000
+1270;2017;26;France;Alma;Requiem;135;12;FALSE;1270;14;67120000
+1271;2018;1;Ukraine;Mélovin;Under The Ladder;130;17;TRUE;1271;0;44830000
+1272;2018;2;Spain;Alfred Y Amaia;Tu Canción;61;23;FALSE;1272;0;46570000
+1273;2018;3;Slovenia;Lea Sirk;Hvala, Ne!;64;22;FALSE;1273;0;1990000
+1274;2018;4;Lithuania;Ieva Zasimauskaite;When We're Old;181;12;TRUE;1274;0;2848000
+1275;2018;5;Austria;Cesár Sampson;Nobody But You;342;3;TRUE;1275;3;8773000
+1276;2018;6;Estonia;Elina Nechayeva;La Forza;245;8;FALSE;1276;3;1316000
+1277;2018;7;Norway;Alexander Rybak;That's How You Write A Song;144;15;TRUE;1277;0;5258000
+1278;2018;8;Portugal;Cláudia Pascoal;O Jardim;39;26;TRUE;1278;1;10310000
+1279;2018;9;United Kingdom;SuRie;Storm;48;24;TRUE;1279;3;66020000
+1280;2018;10;Serbia;Sanja Ilić & Balkanika;Nova Deca / Нова деца;113;19;FALSE;1280;0;7240000
+1281;2018;11;Germany;Michael Schulte;You Let Me Walk Alone;340;4;TRUE;1281;4;82790000
+1282;2018;12;Albania;Eugent Bushpepa;Mall;184;11;FALSE;1282;0;2873000
+1283;2018;13;France;Madame Monsieur;Mercy;173;13;FALSE;1283;0;67120000
+1284;2018;14;Czech Republic;Mikolas Josef;Lie To Me;281;6;TRUE;1284;4;10580000
+1285;2018;15;Denmark;Rasmussen;Higher Ground;226;9;TRUE;1285;0;5770000
+1286;2018;16;Australia;Jessica Mauboy;We Got Love;99;20;TRUE;1286;22;24600000
+1287;2018;17;Finland;Saara Aalto;Monsters;46;25;TRUE;1287;0;5503000
+1288;2018;18;Bulgaria;Equinox;Bones;166;14;TRUE;1288;13;7102000
+1289;2018;19;Moldova;DoReDos;My Lucky Day;209;10;TRUE;1289;0;3550000
+1290;2018;20;Sweden;Benjamin Ingrosso;Dance You Off;274;7;TRUE;1290;2;9995000
+1291;2018;21;Hungary;AWS;Viszlát Nyár;93;21;FALSE;1291;0;9781000
+1292;2018;22;Israel;Netta ;Toy;529;1;TRUE;1292;0;8712000
+1293;2018;23;Netherlands;Waylon;Outlaw In 'em;121;18;TRUE;1293;0;17000000
+1294;2018;24;Ireland;Ryan O'Shaughnessy;Together;136;16;TRUE;1294;0;4784000
+1295;2018;25;Cyprus;Eleni Foureira;Fuego;436;2;TRUE;1295;1;1180000
+1296;2018;26;Italy;Ermal Meta & Fabrizio Moro;Non Mi Avete Fatto Niente;308;5;FALSE;1296;0;60590000
+1297;2019;1;Albania;Jonida Maliqi;Ktheju tokës;;;FALSE;;
+1299;2019;3;Austria;Kate Miller-Heidke;Limits;;;TRUE;;
+1301;2019;5;Azerbaijan;Chingiz;Truth;;;TRUE;;
+1303;2019;7;Belarus;ZENA;Like It;;;TRUE;;
+1305;2019;9;Cyprus;Tamta;Replay;;;TRUE;;
+1307;2019;11;Germany;S!sters;Sister;;;TRUE;;
+1309;2019;13;Estonia;Victor Crone;Storm;;;TRUE;;
+1311;2019;15;Finland;Darude feat. Sebastian Rejman;Look Away ;;;TRUE;;
+1313;2019;17;Georgia;Oto Nemsadze;Keep on Going;;;FALSE;;
+1315;2019;19;Croatia;Roko;The Dream;;;FALSE;;
+1317;2019;21;Ireland;Sarah McTernan;22;;;TRUE;;
+1319;2019;23;Iceland;Hatari;Hatrið mun sigra;;;FALSE;;
+1321;2019;25;Lithuania;Jurij Veklenko;Run with the Lions;;;TRUE;;
+1323;2019;27;Moldova;Anna Odobescu;Stay;;;TRUE;;
+1325;2019;29;Macedonia;Tamara Todevska;Proud;;;TRUE;;
+1327;2019;31;Netherlands;Duncan Laurence ;Arcade;;;TRUE;;
+1329;2019;33;Poland;Tulia; Fire of Love ;;;FALSE;;
+1331;2019;35;Romania;Ester Peony ;On a Sunday;;;TRUE;;
+1333;2019;37;Russia;Sergey Lazarev ;Scream;;;TRUE;;
+1335;2019;39;Slovenia;Zala Kralj & Gašper Šantl;Sebi;;;FALSE;;
+1337;2019;41;France;Bilal Hassani;Roi;;;FALSE;;
