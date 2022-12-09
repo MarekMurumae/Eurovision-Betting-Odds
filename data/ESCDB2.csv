@@ -1295,24 +1295,80 @@ song_id;Year;Order;Country;Singer;Title;Points;Place;in_english;songid;lovementi
 1294;2018;24;Ireland;Ryan O'Shaughnessy;Together;136;16;TRUE;1294;0;4784000
 1295;2018;25;Cyprus;Eleni Foureira;Fuego;436;2;TRUE;1295;1;1180000
 1296;2018;26;Italy;Ermal Meta & Fabrizio Moro;Non Mi Avete Fatto Niente;308;5;FALSE;1296;0;60590000
-1297;2019;1;Albania;Jonida Maliqi;Ktheju tokÃ«s;;;FALSE;;
-1299;2019;3;Austria;Kate Miller-Heidke;Limits;;;TRUE;;8773000
-1301;2019;5;Azerbaijan;Chingiz;Truth;;;TRUE;;9862000
-1303;2019;7;Belarus;ZENA;Like It;;;TRUE;;9508000
-1305;2019;9;Cyprus;Tamta;Replay;;;TRUE;;1180000
-1307;2019;11;Germany;S!sters;Sister;;;TRUE;;82790000
-1309;2019;13;Estonia;Victor Crone;Storm;;;TRUE;;1316000
-1311;2019;15;Finland;Darude feat. Sebastian Rejman;Look Away ;;;TRUE;;5503000
-1313;2019;17;Georgia;Oto Nemsadze;Keep on Going;;;FALSE;;3717000
-1315;2019;19;Croatia;Roko;The Dream;;;FALSE;;4480000
-1317;2019;21;Ireland;Sarah McTernan;22;;;TRUE;;4784000
-1319;2019;23;Iceland;Hatari;HatriÃ° mun sigra;;;FALSE;;338349
-1321;2019;25;Lithuania;Jurij Veklenko;Run with the Lions;;;TRUE;;2848000
-1323;2019;27;Moldova;Anna Odobescu;Stay;;;TRUE;;3550000
-1325;2019;29;Macedonia;Tamara Todevska;Proud;;;TRUE;;2090000
-1327;2019;31;Netherlands;Duncan Laurence ;Arcade;;;TRUE;;17000000
-1329;2019;33;Poland;Tulia; Fire of Love ;;;FALSE;;37970000
-1331;2019;35;Romania;Ester Peony ;On a Sunday;;;TRUE;;19640000
-1333;2019;37;Russia;Sergey Lazarev ;Scream;;;TRUE;;144500000
-1335;2019;39;Slovenia;Zala Kralj & GaÅ¡per Å antl;Sebi;;;FALSE;;1990000
-1337;2019;41;France;Bilal Hassani;Roi;;;FALSE;;67120000
+1297;2019;1;Malta;Michela;Chameleon;107;14;TRUE;1297;5;460297
+1298;2019;2;Albania;Jonida Maliqi;Ktheju tokës;90;17;FALSE;1298;0;2873000
+1299;2019;3;Czech Republic;Lake Malawi;Friend of a Friend;157;11;TRUE;1299;1;10580000
+1300;2019;4;Germany;S!sters;Sister;24;25;TRUE;1300;0;82790000
+1301;2019;5;Russia;Sergey Lazarev;Scream;370;3;TRUE;1301;0;144500000
+1302;2019;6;Denmark;Leonora;Love Is Forever;120;12;TRUE;1302;43;5770000
+1303;2019;7;San Marino;Serhat;Say Na Na Na;77;19;TRUE;1303;3;33400
+1304;2019;8;North Macedonia;Tamara Todevska;Proud;305;7;TRUE;1304;0;2090000
+1305;2019;9;Sweden;John Lundvik;Too Late for Love;334;5;TRUE;1305;15;9995000
+1306;2019;10;Slovenia;Zala Kralj and Gašper Šantl;Sebi;105;15;FALSE;1306;0;1990000
+1307;2019;11;Cyprus;Tamta;Replay;109;13;TRUE;1307;8;1180000
+1308;2019;12;Netherlands;Duncan Laurence;Arcade;498;1;TRUE;1308;6;17000000
+1309;2019;13;Greece;Katerine Duska;Better Love;74;21;TRUE;1309;24;10770000
+1310;2019;14;Israel;Kobi Marimi;Home;35;23;TRUE;1310;0;8712000
+1311;2019;15;Norway;Keiino;Spirit in the Sky;331;6;TRUE;1311;0;5258000
+1312;2019;16;United Kingdom;Michael Rice;Bigger than Us;11;26;TRUE;1312;3;66020000
+1313;2019;17;Iceland;Hatari;Hatrið mun sigra;232;10;FALSE;1313;1;338349
+1314;2019;18;Estonia;Victor Crone;Storm;76;20;TRUE;1314;0;1316000
+1315;2019;19;Belarus;Zena;Like It;31;24;TRUE;1315;0;9508000
+1316;2019;20;Azerbaijan;Chingiz;Truth;302;8;TRUE;1316;0;9862000
+1317;2019;21;France;Bilal Hassani;Roi;105;16;FALSE;1317;1;67120000
+1318;2019;22;Italy;Mahmood;Soldi;472;2;FALSE;1318;3;60590000
+1319;2019;23;Serbia;Nevena Božovi?;Kruna (?????);89;18;FALSE;1319;0;7240000
+1320;2019;24;Switzerland;Luca Hänni;She Got Me;364;4;TRUE;1320;0;8420000
+1321;2019;25;Australia;Kate Miller-Heidke;Zero Gravity;284;9;TRUE;1321;0;24600000
+1322;2019;26;Spain;Miki;La venda;54;22;FALSE;1322;2;46570000
+1323;2021;1;Cyprus;Elena Tsagrinou;El Diablo;94;16;TRUE;1323;18;1180000
+1324;2021;2;Albania;Anxhela Peristeri;Karma;57;21;FALSE;1324;1;2873000
+1325;2021;3;Israel;Eden Alene;Set Me Free;93;17;TRUE;1325;0;8712000
+1326;2021;4;Belgium;Hooverphonic;The Wrong Place;74;19;TRUE;1326;0;11350000
+1327;2021;5;Russia;Manizha;Russian Woman;204;9;FALSE;1327;0;144500000
+1328;2021;6;Malta;Destiny;Je me casse;255;7;TRUE;1328;0;460297
+1329;2021;7;Portugal;The Black Mamba;Love Is on My Side;153;12;TRUE;1329;11;10310000
+1330;2021;8;Serbia;Hurricane;Loco Loco;102;15;FALSE;1330;0;7240000
+1331;2021;9;United Kingdom;James Newman;Embers;0;26;TRUE;1331;0;66020000
+1332;2021;10;Greece;Stefania;Last Dance;170;10;TRUE;1332;0;10770000
+1333;2021;11;Switzerland;Gjon's Tears;Tout l'univers;432;3;FALSE;1333;1;8420000
+1334;2021;12;Iceland;Daði og Gagnamagnið;10 Years;378;4;TRUE;1334;9;338349
+1335;2021;13;Spain;Blas Cantó;Voy a quedarme;6;24;FALSE;1335;3;46570000
+1336;2021;14;Moldova;Natalia Gordienko;Sugar;115;13;TRUE;1336;2;3550000
+1337;2021;15;Germany;Jendrik;I Don't Feel Hate;3;25;TRUE;1337;0;82790000
+1338;2021;16;Finland;Blind Channel;Dark Side;301;6;TRUE;1338;0;5503000
+1339;2021;17;Bulgaria;Victoria;Growing Up Is Getting Old;170;11;TRUE;1339;0;7102000
+1340;2021;18;Lithuania;The Roop;Discoteque;220;8;TRUE;1340;0;2848000
+1341;2021;19;Ukraine;Go_A;Shum (???);364;5;FALSE;1341;0;44830000
+1342;2021;20;France;Barbara Pravi;Voilà;499;2;FALSE;1342;4;67120000
+1343;2021;21;Azerbaijan;Efendi;Mata Hari;65;20;TRUE;1343;3;9862000
+1344;2021;22;Norway;Tix;Fallen Angel;75;18;TRUE;1344;1;5258000
+1345;2021;23;Netherlands;Jeangu Macrooy;Birth of a New Age;11;23;TRUE;1345;0;17000000
+1346;2021;24;Italy;Måneskin;Zitti e buoni;524;1;FALSE;1346;0;60590000
+1347;2021;25;Sweden;Tusse;Voices;109;14;TRUE;1347;0;9995000
+1348;2021;26;San Marino;Senhit;Adrenalina;50;22;TRUE;1348;0;33400
+1349;2022;1;Czech Republic;We Are Domi;Lights Off;38;22;TRUE;1349;2;10580000
+1350;2022;2;Romania;WRS;Llámame;65;18;TRUE;1350;2;19640000
+1351;2022;3;Portugal;Maro;Saudade, saudade;207;9;TRUE;1351;0;10310000
+1352;2022;4;Finland;The Rasmus;Jezebel;38;21;TRUE;1352;1;5503000
+1353;2022;5;Switzerland;Marius Bear;Boys Do Cry;78;17;TRUE;1353;1;8420000
+1354;2022;6;France;Alvan and Ahez;Fulenn;17;24;FALSE;1354;4;67120000
+1355;2022;7;Norway;Subwoolfer;Give That Wolf a Banana;182;10;TRUE;1355;0;5258000
+1356;2022;8;Armenia;Rosa Linn;Snap;61;20;TRUE;1356;0;2930000
+1357;2022;9;Italy;Mahmood and Blanco;Brividi;268;6;FALSE;1357;7;60590000
+1358;2022;10;Spain;Chanel;SloMo;459;3;FALSE;1358;0;46570000
+1359;2022;11;Netherlands;S10;De diepte;171;11;FALSE;1359;0;17000000
+1360;2022;12;Ukraine;Kalush Orchestra;Stefania (????????);631;1;FALSE;1360;0;44830000
+1361;2022;13;Germany;Malik Harris;Rockstars;6;25;TRUE;1361;0;82790000
+1362;2022;14;Lithuania;Monika Liu;Sentimentai;128;14;FALSE;1362;0;2848000
+1363;2022;15;Azerbaijan;Nadir Rustamli;Fade to Black;106;16;TRUE;1363;3;9862000
+1364;2022;16;Belgium;Jérémie Makiese;Miss You;64;19;TRUE;1364;1;11350000
+1365;2022;17;Greece;Amanda Georgiadi Tenfjord;Die Together;215;8;TRUE;1365;4;10770000
+1366;2022;18;Iceland;Systur;Með hækkandi sól;20;23;FALSE;1366;0;338349
+1367;2022;19;Moldova;Zdob ?i Zdub and Advahov Brothers;Trenule?ul;253;7;FALSE;1367;0;3550000
+1368;2022;20;Sweden;Cornelia Jakobs;Hold Me Closer;438;4;TRUE;1368;1;9995000
+1369;2022;21;Australia;Sheldon Riley;Not the Same;125;15;TRUE;1369;0;24600000
+1370;2022;22;United Kingdom;Sam Ryder;Space Man;466;2;TRUE;1370;0;66020000
+1371;2022;23;Poland;Ochman;River;151;12;TRUE;1371;0;37970000
+1372;2022;24;Serbia;Konstrakta;In corpore sano;312;5;FALSE;1372;0;7240000
+1373;2022;25;Estonia;Stefan;Hope;141;13;TRUE;1373;0;1316000
