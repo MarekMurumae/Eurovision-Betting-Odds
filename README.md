@@ -16,4 +16,4 @@ The program uses machine learning methods(KNN, SVM, RandomForest and others) to 
 3. restart the kernel and run all cells
 
 ## Project poster
-[embed][E12_report.pdf](https://github.com/MarekMurumae/Eurovision-Betting-Odds/blob/main/E12_report.pdf)[/embed]
+[embed]https://github.com/MarekMurumae/Eurovision-Betting-Odds/blob/main/E12_report.pdf[/embed]
