@@ -14,6 +14,3 @@ The program uses machine learning methods(KNN, SVM, RandomForest and others) to 
 1. insert the new year's data into the dataset(if you don't know the value of a column insert 0)
 2. in code under headline 'Creating, training and testing classifiers' in list 'years_to_predict' add the year you wish to predict(may delete all the other years)
 3. restart the kernel and run all cells
-
-## Project poster
-https://docs.google.com/viewer?url=https://github.com/MarekMurumae/Eurovision-Betting-Odds/blob/main/E12_report.pdf
